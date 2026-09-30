@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "e1-001",
+  "pregunta": "Según la Ley 1/2002 de creación del Cuerpo de Agentes Forestales, ¿qué titulación se exige para el acceso a la Escala Operativa, categoría de Agente Forestal (Grupo C, subgrupo C1)?",
+  "opciones": [
+   "Título de Bachiller, Técnico o equivalente",
+   "Título de Grado o equivalente",
+   "Título de Graduado en Educación Secundaria Obligatoria",
+   "Título de Técnico Superior en Gestión Forestal exclusivamente"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 4.2 de la Ley 1/2002 (redacción Ley 11/2022).",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 1:2002 - CreacCuerpoAgentesForestales.txt",
+   "cita": "será necesario estar en posesión del título de Bachiller, Técnico o equivalente"
+  }
+ },
+ {
+  "id": "e1-002",
+  "pregunta": "De acuerdo con el artículo 6 de la Ley 1/2002, el Cuerpo de Agentes Forestales tiene la consideración de:",
+  "opciones": [
+   "Policía Judicial Genérica y Policía Administrativa Especial",
+   "Policía Judicial Específica y Policía Administrativa General",
+   "Fuerza y Cuerpo de Seguridad de la Comunidad de Madrid",
+   "Policía Administrativa General exclusivamente"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 6 de la Ley 1/2002.",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 1:2002 - CreacCuerpoAgentesForestales.txt",
+   "cita": "El cuerpo de Agentes Forestales tiene la consideración de Policía Judicial Genérica y Policía Administrativa Especial."
+  }
+ },
+ {
+  "id": "e1-003",
+  "pregunta": "Según el artículo 7 de la Ley 1/2002, los funcionarios del Cuerpo de Agentes Forestales podrán solicitar la adaptación de funciones por razones de edad una vez cumplidos:",
+  "opciones": [
+   "Los 55 años",
+   "Los 60 años",
+   "Los 62 años",
+   "Los 65 años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 7 de la Ley 1/2002.",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 1:2002 - CreacCuerpoAgentesForestales.txt",
+   "cita": "se procederá a la adaptación de funciones de los funcionarios que, por razones de edad, cumplidos los 60 años"
+  }
+ },
+ {
+  "id": "e1-004",
+  "pregunta": "Conforme al régimen disciplinario específico de la Ley 1/2002, mostrar descuido en la presentación personal constituye:",
+  "opciones": [
+   "Falta muy grave",
+   "Falta grave",
+   "Falta leve",
+   "No está tipificado como falta"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 11.3.b) de la Ley 1/2002.",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 1:2002 - CreacCuerpoAgentesForestales.txt",
+   "cita": "3. Como faltas leves: El incumplimiento de la normativa de uso de uniformidad que reglamentariamente se b) Mostrar descuido en la presentación personal."
+  }
+ },
+ {
+  "id": "e1-005",
+  "pregunta": "Según el Decreto 5/2019, sobre acreditación profesional de los Agentes Forestales, ¿cuál de los siguientes NO figura entre los elementos oficiales de acreditación que llevarán siempre que se hallen de servicio?",
+  "opciones": [
+   "Placa identificativa del Cuerpo de Agentes Forestales",
+   "Carné identificativo personal",
+   "Divisas identificativas de escala sobre las prendas superiores del uniforme",
+   "Brazalete identificativo con el número de identificación profesional"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 1 del Decreto 5/2019: placa, carné y divisas de escala.",
+  "fuente": {
+   "documento": "OPO/AAFF/T01 - 20190205 DECRETO 5-2019.txt",
+   "cita": "llevarán, siempre que se hallen de servicio, los siguientes elementos oficiales de acreditación: a) Placa identificativa del Cuerpo de Agentes Forestales. b) Carné identificativo personal. c) Divisas identificativas de escala"
+  }
+ },
+ {
+  "id": "e1-006",
+  "pregunta": "Según el Decreto 5/2019, el número de identificación profesional (NIP) que figura en la placa de cada agente está compuesto por:",
+  "opciones": [
+   "Cuatro dígitos",
+   "Cinco dígitos",
+   "Seis dígitos",
+   "Cinco dígitos y una letra"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 2.6 del Decreto 5/2019.",
+  "fuente": {
+   "documento": "OPO/AAFF/T01 - 20190205 DECRETO 5-2019.txt",
+   "cita": "profesional (NIP) de cada agente compuesto por cinco dígitos"
+  }
+ },
+ {
+  "id": "e1-007",
+  "pregunta": "Según el artículo 45.1 de la Constitución Española:",
+  "opciones": [
+   "Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo",
+   "Los poderes públicos tienen el deber exclusivo de conservar el medio ambiente, sin que corresponda deber alguno a los ciudadanos",
+   "Solo los españoles tienen derecho a disfrutar de un medio ambiente adecuado",
+   "El derecho al medio ambiente es un derecho fundamental protegido mediante recurso de amparo"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 45.1 CE, literal.",
+  "fuente": {
+   "documento": "OPO/Administración/Constitución.txt",
+   "cita": "1. Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo."
+  }
+ },
+ {
+  "id": "e1-008",
+  "pregunta": "Entre las materias en que las Comunidades Autónomas podrán asumir competencias según el artículo 148.1 de la Constitución, la regla 8.ª se refiere a:",
+  "opciones": [
+   "Los montes y aprovechamientos forestales",
+   "La legislación básica sobre montes y vías pecuarias",
+   "Los aprovechamientos hidráulicos de ríos que discurran por varias Comunidades",
+   "La pesca marítima"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 148.1.8.ª CE.",
+  "fuente": {
+   "documento": "OPO/Administración/Constitución.txt",
+   "cita": "8.ª Los montes y aprovechamientos forestales."
+  }
+ },
+ {
+  "id": "e1-009",
+  "pregunta": "Según el artículo 8.2 del Texto Refundido del Estatuto Básico del Empleado Público, ¿cuál de las siguientes NO es una de las clases en que se clasifican los empleados públicos?",
+  "opciones": [
+   "Funcionarios interinos",
+   "Personal eventual",
+   "Personal laboral, ya sea fijo, por tiempo indefinido o temporal",
+   "Personal colaborador honorífico"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 8.2 TREBEP: funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-A-2015-11719-EBEP.txt",
+   "cita": "2. Los empleados públicos se clasifican en: a) Funcionarios de carrera. b) Funcionarios interinos. c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal. d) Personal eventual."
+  }
+ },
+ {
+  "id": "e1-010",
+  "pregunta": "Según el artículo 30.2 de la Ley 39/2015, cuando los plazos se señalen por días y no se exprese otro cómputo por Ley o por el Derecho de la Unión Europea:",
+  "opciones": [
+   "Se entiende que son naturales",
+   "Se entiende que son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos",
+   "Se entiende que son hábiles, excluyéndose solo los domingos y los declarados festivos",
+   "Se computan de fecha a fecha"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 30.2 Ley 39/2015.",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-2015-10565-Ley 39.txt",
+   "cita": "cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos."
+  }
+ },
+ {
+  "id": "e1-011",
+  "pregunta": "Conforme al artículo 23.2.b) de la Ley 40/2015, es motivo de abstención tener parentesco con cualquiera de los interesados:",
+  "opciones": [
+   "De consanguinidad dentro del segundo grado o de afinidad dentro del primero",
+   "De consanguinidad dentro del cuarto grado o de afinidad dentro del segundo",
+   "De consanguinidad dentro del tercer grado o de afinidad dentro del tercero",
+   "De consanguinidad o afinidad dentro del cuarto grado"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 23.2.b) Ley 40/2015.",
+  "fuente": {
+   "documento": "OPO/Administración/LEY_40_2015_RJSP.txt",
+   "cita": "consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados"
+  }
+ },
+ {
+  "id": "e1-012",
+  "pregunta": "Según el artículo 32 de la Ley 1/1986, de la Función Pública de la Comunidad de Madrid, los Cuerpos cuyo cometido suponga exclusivamente el desempeño de funciones objeto de un oficio, profesión o titulación específica se clasifican como:",
+  "opciones": [
+   "Cuerpos de Administración General",
+   "Cuerpos de Administración Especial",
+   "Escalas de Administración Local",
+   "Cuerpos de Gestión"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 32.1.b) Ley 1/1986.",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-A-1986-23734-Ley 1:86.txt",
+   "cita": "b) Cuerpos de Administración Especial, cuando su cometido suponga exclusivamente el desempeño de funciones objeto de un oficio, profesión o titulación específica."
+  }
+ },
+ {
+  "id": "e1-013",
+  "pregunta": "Según el artículo 11.4 de la Ley 43/2003, de Montes, los montes vecinales en mano común son:",
+  "opciones": [
+   "Montes públicos de titularidad municipal",
+   "Montes privados que tienen naturaleza especial derivada de su propiedad en común sin asignación de cuotas",
+   "Montes patrimoniales de las entidades locales",
+   "Montes de dominio público por razones de servicio público"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 11.4 Ley 43/2003 (redacción Ley 21/2015).",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "4. Los montes vecinales en mano común son montes privados que tienen naturaleza especial derivada de su propiedad en común sin asignación de cuotas"
+  }
+ },
+ {
+  "id": "e1-014",
+  "pregunta": "Conforme al artículo 12.2 de la Ley 43/2003, de Montes, son montes patrimoniales:",
+  "opciones": [
+   "Los montes comunales pertenecientes a las entidades locales",
+   "Los montes incluidos en el Catálogo de Montes de Utilidad Pública",
+   "Los de propiedad pública que no sean demaniales",
+   "Los pertenecientes a personas físicas en régimen de copropiedad"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 12.2 Ley 43/2003.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "2. Son montes patrimoniales los de propiedad pública que no sean demaniales."
+  }
+ },
+ {
+  "id": "e1-015",
+  "pregunta": "Según el artículo 14 de la Ley 43/2003, de Montes, los montes del dominio público forestal son:",
+  "opciones": [
+   "Alienables, prescriptibles e inembargables",
+   "Inalienables, imprescriptibles e inembargables, y no están sujetos a tributo alguno que grave su titularidad",
+   "Inalienables e imprescriptibles, pero embargables por deudas tributarias",
+   "Inalienables salvo autorización del Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 14 Ley 43/2003.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "Los montes del dominio público forestal son inalienables, imprescriptibles e inembargables y no están sujetos a tributo alguno que grave su titularidad."
+  }
+ },
+ {
+  "id": "e1-016",
+  "pregunta": "De acuerdo con el artículo 50.1 de la Ley 43/2003, de Montes, en los terrenos forestales incendiados queda prohibido el cambio de uso forestal al menos durante:",
+  "opciones": [
+   "10 años",
+   "20 años",
+   "30 años",
+   "50 años"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 50.1.a) Ley 43/2003.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "a) El cambio de uso forestal al menos durante 30 años."
+  }
+ },
+ {
+  "id": "e1-017",
+  "pregunta": "Según el artículo 102.4 de la Ley 16/1995, Forestal y de Protección de la Naturaleza de la Comunidad de Madrid, a efectos de calificar una infracción como muy grave, se entiende que la reparación sólo es posible a largo plazo cuando:",
+  "opciones": [
+   "Exceda de cinco años",
+   "Exceda de diez años",
+   "Exceda de quince años",
+   "Exceda de veinte años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 102.4 Ley 16/1995.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "o ésta sólo sea posible a largo plazo, entendiéndose por tal el que exceda de diez años."
+  }
+ },
+ {
+  "id": "e1-018",
+  "pregunta": "Según el artículo 102.6 de la Ley 16/1995, Forestal de la Comunidad de Madrid, habrá reincidencia si en el momento de cometerse la infracción no hubiera transcurrido, desde la imposición por resolución firme de una sanción por infracción análoga:",
+  "opciones": [
+   "Seis meses",
+   "Un año",
+   "Dos años",
+   "Tres años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 102.6 Ley 16/1995.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "6. Habrá reincidencia si en el momento de cometerse la infracción no hubieran transcurrido un año desde la imposición por resolución firme, de una sanción por infracción análoga."
+  }
+ },
+ {
+  "id": "e1-019",
+  "pregunta": "Según el artículo 54 de la Ley 16/1995, Forestal de la Comunidad de Madrid, los terrenos forestales gravemente afectados por incendios serán considerados, a efectos de su restauración, como:",
+  "opciones": [
+   "Montes protectores",
+   "Zonas de especial interés hidrológico-forestal",
+   "Zonas de actuación urgente",
+   "Montes preservados"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 54.2 Ley 16/1995, en relación con su art. 71.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "caso, los terrenos forestales gravemente afectados por incendios serán considerados, a efectos de su restauración, como zonas de actuación urgente"
+  }
+ },
+ {
+  "id": "e1-020",
+  "pregunta": "Según el artículo 100.3 de la Ley 16/1995, Forestal de la Comunidad de Madrid, señale la afirmación INCORRECTA sobre los Agentes Forestales:",
+  "opciones": [
+   "Tienen la consideración de agentes de la autoridad",
+   "Pueden acceder en cualquier momento y sin previo aviso a los montes y terrenos forestales, con independencia de quién sea su titular",
+   "Los hechos que constaten y formalicen en actas tienen presunción de certeza",
+   "Pueden acceder a los domicilios situados en terrenos forestales sin necesidad de respetar su inviolabilidad"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 100.3 Ley 16/1995: el acceso se hace con respeto, en todo caso, a la inviolabilidad del domicilio.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "permanecer en los montes y terrenos forestales con independencia de quién sea su titular, con respeto, en todo caso, a la inviolabilidad del domicilio."
+  }
+ },
+ {
+  "id": "e1-021",
+  "pregunta": "Según el Real Decreto 209/2002, sobre ordenación de las explotaciones apícolas, los asentamientos apícolas deberán respetar respecto a carreteras nacionales una distancia mínima de:",
+  "opciones": [
+   "50 metros",
+   "100 metros",
+   "200 metros",
+   "400 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "RD 209/2002, distancias mínimas de los asentamientos apícolas (apartado 2, 3.º).",
+  "fuente": {
+   "documento": "OPO/Montes/Real Decreto 209:2002 normas de ordenación de las explotaciones apÃ­colas.txt",
+   "cita": "3.º Carreteras nacionales: 200 metros."
+  }
+ },
+ {
+  "id": "e1-022",
+  "pregunta": "En Selvicultura, los brotes que emite un árbol desde las raíces a cierta distancia del tocón se denominan:",
+  "opciones": [
+   "Retoños",
+   "Renuevos",
+   "Chirpiales de cepa",
+   "Yemas proventicias"
+  ],
+  "correcta": 1,
+  "explicacion": "Apuntes de Selvicultura (Serrada, 2011), apartado V.10.3.",
+  "fuente": {
+   "documento": "OPO/Montes/T31 - SERRADA 2011 Apuntes_de_Selvicultura_completo.txt",
+   "cita": "bien desde las raíces a cierta distancia del tocón y se denominan renuevos"
+  }
+ },
+ {
+  "id": "e1-023",
+  "pregunta": "En Selvicultura, una especie de escasa valencia ecológica respecto de un factor determinado, que no puede resistir más que variaciones pequeñas del mismo, se denomina:",
+  "opciones": [
+   "Eurioica",
+   "Estenoica",
+   "Heliófila",
+   "Plurinodal"
+  ],
+  "correcta": 1,
+  "explicacion": "Apuntes de Selvicultura (Serrada, 2011), citando a Gandullo (1985).",
+  "fuente": {
+   "documento": "OPO/Montes/T31 - SERRADA 2011 Apuntes_de_Selvicultura_completo.txt",
+   "cita": "una especie de escasa valencia ecológica se denomina estenoica respecto de un factor determinado cuando no puede resistir más que variaciones pequeñas del mismo."
+  }
+ },
+ {
+  "id": "e1-024",
+  "pregunta": "¿Cuál de las siguientes NO figura entre las categorías de espacios naturales protegidos enumeradas en el artículo 30 de la Ley 42/2007, del Patrimonio Natural y de la Biodiversidad?",
+  "opciones": [
+   "Parques",
+   "Reservas Naturales",
+   "Monumentos Naturales",
+   "Reservas Nacionales de Caza"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 30 Ley 42/2007: Parques, Reservas Naturales, Áreas Marinas Protegidas, Monumentos Naturales y Paisajes Protegidos.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "a) Parques. b) Reservas Naturales. c) Áreas Marinas Protegidas. d) Monumentos Naturales."
+  }
+ },
+ {
+  "id": "e1-025",
+  "pregunta": "Según el artículo 31.1 de la Ley 42/2007, las áreas naturales que, en razón a la belleza de sus paisajes, la representatividad de sus ecosistemas o la singularidad de su flora, de su fauna o de su diversidad geológica, poseen unos valores cuya conservación merece una atención preferente, son:",
+  "opciones": [
+   "Los Parques",
+   "Las Reservas Naturales",
+   "Los Paisajes Protegidos",
+   "Los Monumentos Naturales"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 31.1 Ley 42/2007.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "1. Los Parques son áreas naturales, que, en razón a la belleza de sus paisajes, la representatividad de sus ecosistemas"
+  }
+ },
+ {
+  "id": "e1-026",
+  "pregunta": "Según el artículo 59 de la Ley 42/2007, la inclusión de un taxón o población en la categoría de \"en peligro de extinción\" del Catálogo Español de Especies Amenazadas conllevará la adopción de un plan de recuperación en un plazo máximo de:",
+  "opciones": [
+   "1 año",
+   "2 años",
+   "3 años",
+   "5 años"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 59.1.a) Ley 42/2007 (para \"vulnerable\", plan de conservación en cinco años).",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "a) La inclusión de un taxón o población en la categoría de \"en peligro de extinción\" conllevará, en un plazo máximo de 3 años, la adopción de un plan de recuperación"
+  }
+ },
+ {
+  "id": "e1-027",
+  "pregunta": "Según la Ley 2/1991, de protección de la fauna y flora silvestres de la Comunidad de Madrid, la categoría del Catálogo Regional de Especies Amenazadas referida a aquellas especies cuyo hábitat característico está particularmente amenazado, en grave regresión, fraccionado o muy limitado es:",
+  "opciones": [
+   "En peligro de extinción",
+   "Sensibles a la alteración de su hábitat",
+   "Vulnerables",
+   "De interés especial"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 7.1.b) Ley 2/1991.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_2_1991_ProteccFaunaYFlora_Silvestres_Madrid.txt",
+   "cita": "b) Sensibles a la alteración de su hábitat, referida a aquellas cuyo hábitat característico está particularmente amenazado, en grave regresión, fraccionado o muy limitado."
+  }
+ },
+ {
+  "id": "e1-028",
+  "pregunta": "Según el artículo 9 de la Ley 2/1991 de la Comunidad de Madrid, ¿la inclusión en qué categorías del Catálogo Regional de Especies Amenazadas conlleva las prohibiciones genéricas que enumera?",
+  "opciones": [
+   "«Vulnerables» y «de interés especial»",
+   "«En peligro de extinción» y «sensible a la alteración de su hábitat»",
+   "Únicamente «en peligro de extinción»",
+   "Todas las categorías del Catálogo por igual"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 9 Ley 2/1991.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_2_1991_ProteccFaunaYFlora_Silvestres_Madrid.txt",
+   "cita": "las categorías de «en peligro de extinción» o «sensible a la alteración de su hábitat» conlleva las siguientes prohibiciones genéricas"
+  }
+ },
+ {
+  "id": "e1-029",
+  "pregunta": "¿Qué categoría de espacio natural crea la Ley 2/1991 de la Comunidad de Madrid, con el fin de proteger y conservar las especies de fauna y flora silvestres, además de las definidas en la legislación básica del Estado?",
+  "opciones": [
+   "Refugios de Caza",
+   "Espacios Naturales de Protección Temporal",
+   "Microrreservas de Flora",
+   "Áreas de Especial Protección para las Aves"
+  ],
+  "correcta": 1,
+  "explicacion": "Capítulo V de la Ley 2/1991.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_2_1991_ProteccFaunaYFlora_Silvestres_Madrid.txt",
+   "cita": "conservar las especies de fauna y flora silvestres, se crea la categoría de Espacios Naturales de Protección Temporal."
+  }
+ },
+ {
+  "id": "e1-030",
+  "pregunta": "El Decreto 5/1991 declara refugio de fauna la Laguna de San Juan y su entorno, zona palustre situada en el término municipal de:",
+  "opciones": [
+   "Aranjuez",
+   "Chinchón",
+   "Titulcia",
+   "Villamanrique de Tajo"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 1.1 del Decreto 5/1991.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Decreto 5:1991 - Refugio de fauna Laguna de San Juan.txt",
+   "cita": "zona palustre de la Laguna de San Juan y su entorno, situada en el término municipal de Chinchón, mediante su declaración como refugio de fauna"
+  }
+ },
+ {
+  "id": "e1-031",
+  "pregunta": "Según el artículo 2 de la Ley 7/2013, el Parque Nacional de la Sierra de Guadarrama tiene una superficie total de:",
+  "opciones": [
+   "21.714 hectáreas",
+   "12.246 hectáreas",
+   "33.960 hectáreas",
+   "46.200 hectáreas"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 2.1 Ley 7/2013: 33.960 ha (21.714 en Madrid y 12.246 en Castilla y León).",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Ley 7:2013 - Parque Nacional Guadarrama.txt",
+   "cita": "una superficie de 33.960 hectáreas pertenecientes a las Comunidades Autónomas de Madrid (21.714 hectáreas) y de Castilla y León (12.246 hectáreas)."
+  }
+ },
+ {
+  "id": "e1-032",
+  "pregunta": "El Decreto 2868/1974 declaró «El Hayedo de Montejo de la Sierra» como:",
+  "opciones": [
+   "Parque Natural",
+   "Sitio natural de interés nacional",
+   "Reserva Natural Integral",
+   "Monumento Natural de interés regional"
+  ],
+  "correcta": 1,
+  "explicacion": "Título del Decreto 2868/1974.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Decreto 2868:1974 - Sitio Natural Interés Nacional Hayedo Montejo.txt",
+   "cita": "Declaración de sitio natural de interés nacional «El Hayedo de Montejo de la Sierra»."
+  }
+ },
+ {
+  "id": "e1-033",
+  "pregunta": "Según el artículo 7 del Real Decreto 630/2013, la inclusión de una especie en el Catálogo español de especies exóticas invasoras conlleva la prohibición genérica de:",
+  "opciones": [
+   "Su posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos, que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior",
+   "Su caza y pesca en todo el territorio nacional",
+   "Únicamente su comercio exterior",
+   "Únicamente su liberación en el medio natural"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 7.1 RD 630/2013.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/RD_630_2013_Catalogo_EspeciesExoticas.txt",
+   "cita": "conlleva la prohibición genérica de su posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos, que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior."
+  }
+ },
+ {
+  "id": "e1-034",
+  "pregunta": "Según la Ley 2/1991 de la Comunidad de Madrid, la categoría «De interés especial» del Catálogo Regional de Especies Amenazadas incluye aquellas especies que:",
+  "opciones": [
+   "Corren el riesgo de pasar a categorías superiores en un futuro inmediato",
+   "Sin estar contempladas en ninguna de las precedentes, sean merecedoras de una atención particular en función de su valor científico, ecológico, cultural o por su singularidad",
+   "Tienen su hábitat en grave regresión",
+   "Son objeto de caza o pesca comercial"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 7.1.d) Ley 2/1991.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_2_1991_ProteccFaunaYFlora_Silvestres_Madrid.txt",
+   "cita": "ninguna de las precedentes, sean merecedoras de una atención particular en función de su valor científico, ecológico, cultural o por su singularidad."
+  }
+ },
+ {
+  "id": "e1-035",
+  "pregunta": "Según el artículo 11 de la Ley 4/2026, de Caza y Pesca de la Comunidad de Madrid, las zonas de caza controlada se clasifican como:",
+  "opciones": [
+   "Terrenos cinegéticos",
+   "Terrenos no cinegéticos",
+   "Zonas de seguridad",
+   "Vedados"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 11.a) Ley 4/2026: reservas regionales de caza, zonas de caza controlada y cotos de caza son terrenos cinegéticos.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "a) Terrenos cinegéticos: son los terrenos donde se puede practicar la caza, y que a tal efecto han de ser previamente declarados clasificándose en: 1.o Reservas regionales de caza. 2.o Zonas de caza controlada."
+  }
+ },
+ {
+  "id": "e1-036",
+  "pregunta": "Según la Ley 4/2026, de Caza y Pesca de la Comunidad de Madrid, en las reservas regionales de caza el derecho al aprovechamiento cinegético y la titularidad cinegética corresponden a:",
+  "opciones": [
+   "Los ayuntamientos integrados en la reserva",
+   "La Comunidad de Madrid",
+   "Los propietarios de los terrenos",
+   "Las sociedades de cazadores colaboradoras"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 12.2 Ley 4/2026.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "2. En las reservas regionales de caza corresponde a la Comunidad de Madrid el derecho al aprovechamiento cinegético y la titularidad cinegética."
+  }
+ },
+ {
+  "id": "e1-037",
+  "pregunta": "Según el artículo 31.1 de la Ley 4/2026, de Caza y Pesca de la Comunidad de Madrid, con carácter general la caza se practicará en el periodo comprendido entre:",
+  "opciones": [
+   "La salida y la puesta del sol",
+   "Una hora antes de la salida del sol y una hora después de su puesta",
+   "Media hora antes de la salida del sol y media hora después de su puesta",
+   "Una hora después de la salida del sol y una hora antes de su puesta"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 31.1 Ley 4/2026 (no aplica a aguardos o esperas de caza mayor ni a puestos fijos de caza menor).",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "1. Con carácter general la caza se practicará en el periodo comprendido entre una hora antes de la salida del sol y una hora después de su puesta"
+  }
+ },
+ {
+  "id": "e1-038",
+  "pregunta": "Según el artículo 41.1.c) de la Ley 4/2026, de Caza y Pesca de la Comunidad de Madrid, queda prohibido el empleo y la tenencia de armas de caza listas para su uso en una franja, en todas las direcciones, alrededor de los núcleos de población, de:",
+  "opciones": [
+   "Cincuenta metros",
+   "Cien metros",
+   "Ciento cincuenta metros",
+   "Doscientos cincuenta metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 41.1.c) Ley 4/2026 (50 m es la franja de autopistas, carreteras, casas aisladas y caminos públicos; 100 m la de rebaños y personas).",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "c) Una franja de ciento cincuenta metros, en todas las direcciones, alrededor de los núcleos de población"
+  }
+ },
+ {
+  "id": "e1-039",
+  "pregunta": "Según la Orden de vedas de caza 2026/2027 de la Comunidad de Madrid, no podrá superarse un cupo total de ejemplares de codorniz por cazador y día de:",
+  "opciones": [
+   "Cuatro",
+   "Seis",
+   "Ocho",
+   "Diez"
+  ],
+  "correcta": 2,
+  "explicacion": "Orden 2511/2026, artículo relativo a la media veda, apartado 3.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Orden 2511:2026 - Vedas Caza 26:27.txt",
+   "cita": "No podrá superarse el cupo total de ocho ejemplares de codorniz por cazador y día."
+  }
+ },
+ {
+  "id": "e1-040",
+  "pregunta": "Según la Orden de vedas de caza 2026/2027 de la Comunidad de Madrid, la media veda en los cotos privados de caza con superficie igual o superior a 250 hectáreas se desarrolla entre:",
+  "opciones": [
+   "El 15 de agosto y el 15 de septiembre",
+   "El 20 de agosto y el 20 de septiembre, ambos incluidos",
+   "El 1 de agosto y el 31 de agosto",
+   "El 1 de septiembre y el 30 de septiembre"
+  ],
+  "correcta": 1,
+  "explicacion": "Orden 2511/2026, media veda.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Orden 2511:2026 - Vedas Caza 26:27.txt",
+   "cita": "autonómicos en la Comunidad de Madrid comprendidos entre el día 20 de agosto y el 20 de septiembre, ambos incluidos."
+  }
+ },
+ {
+  "id": "e1-041",
+  "pregunta": "Según la Orden de vedas de pesca 2026/2027 de la Comunidad de Madrid, los ejemplares de trucha común capturados:",
+  "opciones": [
+   "Pueden retenerse libremente siempre que superen la dimensión mínima",
+   "Deberán ser devueltos inmediatamente al agua evitando al máximo su manipulación, salvo las excepciones reflejadas en el Anexo II",
+   "Pueden retenerse hasta un cupo de dos ejemplares por pescador y día",
+   "Deben entregarse al Agente Forestal para su control sanitario"
+  ],
+  "correcta": 1,
+  "explicacion": "Orden 815/2026, vedas de pesca.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Orden 815:2026 - Vedas Pesca 26:27.txt",
+   "cita": "Todos los ejemplares de trucha común capturados deberán ser devueltos inmediatamente al agua evitando al máximo su manipulación, salvo las excepciones reflejadas en el Anexo II."
+  }
+ },
+ {
+  "id": "e1-042",
+  "pregunta": "Según la Orden de vedas de pesca 2026/2027 de la Comunidad de Madrid, ¿qué valor por ejemplar, con independencia del sexo o edad, se asigna a la trucha común?",
+  "opciones": [
+   "30 euros",
+   "100 euros",
+   "200 euros",
+   "300 euros"
+  ],
+  "correcta": 2,
+  "explicacion": "Orden 815/2026: trucha común 200 €; otras especies pescables 30 €.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Orden 815:2026 - Vedas Pesca 26:27.txt",
+   "cita": "— Trucha común: 200 euros. — Otras especies piscícolas pescables: 30 euros."
+  }
+ },
+ {
+  "id": "e1-043",
+  "pregunta": "Según el Plan INFOMA (Decreto 59/2017), la época de peligro alto de incendios forestales en la Comunidad de Madrid comprende:",
+  "opciones": [
+   "Desde el 1 de junio hasta el 15 de octubre",
+   "Desde el 15 de junio hasta el 30 de septiembre",
+   "Desde el 16 de mayo hasta el 31 de octubre",
+   "Desde el 1 de julio hasta el 31 de agosto"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 59/2017, INFOMA, épocas de peligro.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20170606 Decreto 59-2017 INFOMA.txt",
+   "cita": "— Época de peligro alto: Desde el 15 de junio hasta el 30 de septiembre."
+  }
+ },
+ {
+  "id": "e1-044",
+  "pregunta": "Según el Plan INFOMA (Decreto 59/2017), ¿cuál de los siguientes periodos corresponde a la época de peligro medio?",
+  "opciones": [
+   "Del 1 de noviembre al 15 de mayo",
+   "Del 16 de mayo al 14 de junio y del 1 al 31 de octubre",
+   "Del 15 de junio al 30 de septiembre",
+   "Del 1 de marzo al 31 de mayo"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 59/2017, INFOMA.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20170606 Decreto 59-2017 INFOMA.txt",
+   "cita": "— Época de peligro medio: Del 16 de mayo al 14 de junio y del 1 al 31 de octubre."
+  }
+ },
+ {
+  "id": "e1-045",
+  "pregunta": "Según la Directriz básica de planificación de protección civil de emergencia por incendios forestales (RD 893/2013), la Situación 3 es:",
+  "opciones": [
+   "La situación de emergencia que solo puede afectar a bienes de naturaleza forestal",
+   "La situación de emergencia correspondiente y consecutiva a la declaración de emergencia de interés nacional por el Ministro del Interior",
+   "La situación que exige la incorporación de medios extraordinarios a solicitud de la Comunidad Autónoma",
+   "La situación de preemergencia por índices de peligro meteorológico extremo"
+  ],
+  "correcta": 1,
+  "explicacion": "RD 893/2013, situaciones operativas.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20131115 Real Decreto 893-2013 Directriz BÃ¡sica PC por IIFF.txt",
+   "cita": "Situación 3: Situación de emergencia correspondiente y consecutiva a la declaración de emergencia de interés nacional por el Ministro del Interior."
+  }
+ },
+ {
+  "id": "e1-046",
+  "pregunta": "Según el RD 893/2013, la calificación de la situación operativa de los planes en las situaciones 0, 1 y 2 será efectuada por:",
+  "opciones": [
+   "El Ministro del Interior",
+   "La Dirección General de Protección Civil y Emergencias",
+   "El órgano competente de la Comunidad Autónoma",
+   "El Delegado del Gobierno"
+  ],
+  "correcta": 2,
+  "explicacion": "RD 893/2013, calificación de la situación operativa.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20131115 Real Decreto 893-2013 Directriz BÃ¡sica PC por IIFF.txt",
+   "cita": "La calificación de la situación operativa de los planes, en los niveles anteriores, será efectuada por el órgano competente de la Comunidad Autónoma."
+  }
+ },
+ {
+  "id": "e1-047",
+  "pregunta": "Según el RD 893/2013, la situación de emergencia provocada por uno o varios incendios forestales que, en su evolución previsible, puedan afectar sólo a bienes de naturaleza forestal, corresponde a la:",
+  "opciones": [
+   "Situación 0",
+   "Situación 1",
+   "Situación 2",
+   "Situación 3"
+  ],
+  "correcta": 0,
+  "explicacion": "RD 893/2013, situaciones operativas.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20131115 Real Decreto 893-2013 Directriz BÃ¡sica PC por IIFF.txt",
+   "cita": "Situación 0: Situación de emergencia provocada por uno o varios incendios forestales que, en su evolución previsible, puedan afectar sólo a bienes de naturaleza forestal"
+  }
+ },
+ {
+  "id": "e1-048",
+  "pregunta": "Según el Manual de Formación de Incendios Forestales para Cuadrillas, ¿cuál de las siguientes definiciones de las partes de un incendio es INCORRECTA?",
+  "opciones": [
+   "Cabeza: extremo más activo, donde el fuego avanza con más intensidad y más rápidamente",
+   "Flancos: bordes laterales, con llamas",
+   "Cola: extremo donde el fuego avanza con más intensidad",
+   "Borde: línea perimetral, que en unos puntos estará con llamas y en otros no"
+  ],
+  "correcta": 2,
+  "explicacion": "La cola es el extremo donde el fuego progresa con más lentitud.",
+  "fuente": {
+   "documento": "OPO/IIFF/MANUAL_INCENDIOS_CUADRILLAS.txt",
+   "cita": "– COLA: Extremo donde el fuego progresa con más lentitud."
+  }
+ },
+ {
+  "id": "e1-049",
+  "pregunta": "Según el Manual de Formación de Incendios Forestales para Cuadrillas, los tres elementos que componen el triángulo del fuego son:",
+  "opciones": [
+   "El calor, el oxígeno y el combustible",
+   "El viento, la pendiente y el combustible",
+   "El calor, la humedad y el oxígeno",
+   "La topografía, la meteorología y el combustible"
+  ],
+  "correcta": 0,
+  "explicacion": "Manual para Cuadrillas, apartado 1.2.",
+  "fuente": {
+   "documento": "OPO/IIFF/MANUAL_INCENDIOS_CUADRILLAS.txt",
+   "cita": "Estos tres elementos son: EL CALOR, EL OXIGENO Y EL COMBUSTIBLE. Todos ellos componen el triángulo del fuego"
+  }
+ },
+ {
+  "id": "e1-050",
+  "pregunta": "Según el artículo 6 del Texto Refundido de la Ley de Aguas (RDL 1/2001), las márgenes están sujetas en toda su extensión longitudinal a una zona de servidumbre para uso público de:",
+  "opciones": [
+   "Tres metros de anchura",
+   "Cinco metros de anchura",
+   "Diez metros de anchura",
+   "Cien metros de anchura"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 6.1.a) TRLA (la zona de policía es de 100 metros).",
+  "fuente": {
+   "documento": "OPO/Aguas/RDL 1:2001 - Ley de Aguas.txt",
+   "cita": "a) A una zona de servidumbre de cinco metros de anchura, para uso público que se regulará reglamentariamente."
+  }
+ },
+ {
+  "id": "e1-051",
+  "pregunta": "Según el artículo 6 del Texto Refundido de la Ley de Aguas, la zona de policía en la que se condicionará el uso del suelo y las actividades que se desarrollen en las márgenes tiene una anchura de:",
+  "opciones": [
+   "5 metros",
+   "25 metros",
+   "50 metros",
+   "100 metros"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 6.1.b) TRLA.",
+  "fuente": {
+   "documento": "OPO/Aguas/RDL 1:2001 - Ley de Aguas.txt",
+   "cita": "b) A una zona de policía de 100 metros de anchura en la que se condicionará el uso del suelo y las actividades que se desarrollen."
+  }
+ },
+ {
+  "id": "e1-052",
+  "pregunta": "¿Cuál de los siguientes NO constituye dominio público hidráulico del Estado según el artículo 2 del Texto Refundido de la Ley de Aguas?",
+  "opciones": [
+   "Los cauces de corrientes naturales, continuas o discontinuas",
+   "Las aguas procedentes de la desalación de agua de mar",
+   "Los lechos de los lagos y lagunas y los de los embalses superficiales en cauces públicos",
+   "Los terrenos de las zonas de policía de los cauces"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 2 TRLA: aguas continentales, cauces, lechos de lagos, lagunas y embalses, acuíferos y aguas desaladas.",
+  "fuente": {
+   "documento": "OPO/Aguas/RDL 1:2001 - Ley de Aguas.txt",
+   "cita": "b) Los cauces de corrientes naturales, continuas o discontinuas. c) Los lechos de los lagos y lagunas y los de los embalses superficiales en cauces públicos. d) Los acuíferos, a los efectos de los actos de disposición o de afección de los recursos hidráulicos. e) Las aguas procedentes de la desalación de agua de mar."
+  }
+ },
+ {
+  "id": "e1-053",
+  "pregunta": "Según la Ley 7/1990, de protección de embalses y zonas húmedas de la Comunidad de Madrid, se entiende por embalse:",
+  "opciones": [
+   "Toda balsa artificial donde se acopian las aguas de un río o arroyo para abastecimiento, regadíos, usos hidroeléctricos y otros",
+   "Toda zona pantanosa o encharcadiza, natural o artificial",
+   "Todo lago natural de más de una hectárea",
+   "Toda lámina de agua catalogada por la Confederación Hidrográfica"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 2 Ley 7/1990.",
+  "fuente": {
+   "documento": "OPO/Aguas/Ley 7:1990 - Embalses y Zonas Húmedas.txt",
+   "cita": "Es embalse toda balsa artificial donde se acopian las aguas de un río o arroyo para abastecimiento, regadíos, usos hidroeléctricos y otros."
+  }
+ },
+ {
+  "id": "e1-054",
+  "pregunta": "Según el artículo 13 de la Ley 7/1990 de la Comunidad de Madrid, los Planes de Ordenación de embalses y el Plan de Actuación sobre humedales se revisarán:",
+  "opciones": [
+   "Cada dos años",
+   "Cada cuatro años",
+   "Cada cinco años",
+   "Transcurridos diez años desde su aprobación"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 13 Ley 7/1990 (el Catálogo de Embalses y Humedales se revisa de oficio a los diez años).",
+  "fuente": {
+   "documento": "OPO/Aguas/Ley 7:1990 - Embalses y Zonas Húmedas.txt",
+   "cita": "Los Planes de Ordenación y el Plan de Actuación se revisarán cada cuatro años."
+  }
+ },
+ {
+  "id": "e1-055",
+  "pregunta": "Según el artículo 8 de la Ley 7/2022, de residuos y suelos contaminados para una economía circular, ¿cuál es el orden de prioridad de la jerarquía de residuos?",
+  "opciones": [
+   "Prevención, preparación para la reutilización, reciclado, otro tipo de valorización (incluida la energética) y eliminación",
+   "Reciclado, prevención, reutilización, eliminación y valorización energética",
+   "Prevención, reciclado, preparación para la reutilización, eliminación y valorización",
+   "Preparación para la reutilización, prevención, valorización energética, reciclado y eliminación"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 8.1 Ley 7/2022.",
+  "fuente": {
+   "documento": "OPO/Residuos/Ley 7:2022 - Residuos.txt",
+   "cita": "a) Prevención, b) preparación para la reutilización, c) reciclado, d) otro tipo de valorización, incluida la valorización energética y e) eliminación."
+  }
+ },
+ {
+  "id": "e1-056",
+  "pregunta": "Según la Ley 7/2022, de residuos y suelos contaminados, se define «residuo» como:",
+  "opciones": [
+   "Cualquier sustancia u objeto que su poseedor deseche o tenga la intención o la obligación de desechar",
+   "Cualquier sustancia que carezca de valor económico en el mercado",
+   "Cualquier objeto depositado en un vertedero autorizado",
+   "Cualquier sustancia peligrosa generada en un proceso industrial"
+  ],
+  "correcta": 0,
+  "explicacion": "Ley 7/2022, definiciones, letra al) «Residuo».",
+  "fuente": {
+   "documento": "OPO/Residuos/Ley 7:2022 - Residuos.txt",
+   "cita": "al) «Residuo»: cualquier sustancia u objeto que su poseedor deseche o tenga la intención o la obligación de desechar."
+  }
+ },
+ {
+  "id": "e1-057",
+  "pregunta": "Según la Resolución de 16 de noviembre de 2022 sobre el procedimiento de autorización por el Cuerpo de Agentes Forestales de quema de residuos vegetales, la superficie ocupada por las hogueras estará rodeada por una franja recientemente laboreada o libre de vegetación de una anchura de:",
+  "opciones": [
+   "1 metro",
+   "2 metros",
+   "3 metros",
+   "6 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Resolución de 16/11/2022, condiciones de la quema, apartado 4.",
+  "fuente": {
+   "documento": "OPO/Residuos/T22 - 20221116 Procedimiento autorizaci¢n quema residuos BOCM-20221130-15.txt",
+   "cita": "4. La superficie ocupada por las hogueras estará rodeada por una franja de 3 metros de anchura recientemente laboreada"
+  }
+ },
+ {
+  "id": "e1-058",
+  "pregunta": "Según la Resolución de 16 de noviembre de 2022 sobre autorización de quemas de residuos vegetales, señale la afirmación INCORRECTA sobre las condiciones de la quema:",
+  "opciones": [
+   "No se realizarán acumulaciones de restos vegetales superiores a 2 metros cúbicos",
+   "Los montones se quemarán a una distancia superior a 6 metros del límite del recinto ocupado por el cultivo",
+   "La hoguera no se iniciará antes de la salida del sol",
+   "La quema podrá prolongarse durante la noche si se cuenta con personal suficiente para su control"
+  ],
+  "correcta": 3,
+  "explicacion": "La quema deberá quedar completamente extinguida antes de la puesta de sol (apartado 7).",
+  "fuente": {
+   "documento": "OPO/Residuos/T22 - 20221116 Procedimiento autorizaci¢n quema residuos BOCM-20221130-15.txt",
+   "cita": "7. La hoguera no se iniciará antes de la salida del sol y deberá estar totalmente extinguida al finalizar la jornada de trabajo. En todo caso, la quema deberá quedar completamente extinguida antes de la puesta de sol."
+  }
+ },
+ {
+  "id": "e1-059",
+  "pregunta": "La autorización del Cuerpo de Agentes Forestales para la quema de residuos vegetales, según las resoluciones de la Dirección General de Emergencias incluidas en el temario, se refiere a terrenos forestales o a la franja de terreno que los circunda, en caso de ser suelo no urbano, de una anchura de:",
+  "opciones": [
+   "100 metros",
+   "200 metros",
+   "400 metros",
+   "500 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Resolución de 30/12/2022 (BOCM 2/1/2023), apartado Tercero.",
+  "fuente": {
+   "documento": "OPO/Residuos/T22 - 20221230 Instrucciones quema residuos BOCM-20230102-16.txt",
+   "cita": "quema de residuos vegetales en terrenos forestales o en la franja de terreno de 400 metros de ancho que los circunda en caso de ser el terreno suelo no urbano, durante la época de peligro bajo"
+  }
+ },
+ {
+  "id": "e1-060",
+  "pregunta": "Según el artículo 4 de la Ley 3/1995, de Vías Pecuarias, las cañadas son aquellas vías cuya anchura no exceda de:",
+  "opciones": [
+   "20 metros",
+   "37,5 metros",
+   "75 metros",
+   "100 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 4.1.a) Ley 3/1995 (cordeles ≤ 37,5 m; veredas ≤ 20 m).",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19950323 LEY 3-1995 ESTATAL VIAS PECUARIAS.txt",
+   "cita": "a) Las cañadas son aquellas vías cuya anchura no exceda de los 75 metros."
+  }
+ },
+ {
+  "id": "e1-061",
+  "pregunta": "Según la Ley 3/1995, de Vías Pecuarias, las vías que tienen una anchura no superior a los 20 metros se denominan:",
+  "opciones": [
+   "Cañadas",
+   "Cordeles",
+   "Veredas",
+   "Descansaderos"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 4.1.c) Ley 3/1995.",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19950323 LEY 3-1995 ESTATAL VIAS PECUARIAS.txt",
+   "cita": "c) Veredas son las vías que tienen una anchura no superior a los 20 metros."
+  }
+ },
+ {
+  "id": "e1-062",
+  "pregunta": "Según el artículo 2 de la Ley 3/1995, las vías pecuarias son:",
+  "opciones": [
+   "Bienes patrimoniales de los municipios por los que discurren",
+   "Bienes de dominio público del Estado, gestionados por las Confederaciones Hidrográficas",
+   "Bienes de dominio público de las Comunidades Autónomas y, en consecuencia, inalienables, imprescriptibles e inembargables",
+   "Bienes privados sujetos a servidumbre de paso ganadero"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 2 Ley 3/1995 (el texto del temario recoge la errata «inalineables»).",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19950323 LEY 3-1995 ESTATAL VIAS PECUARIAS.txt",
+   "cita": "Las vías pecuarias son bienes de dominio público de las Comunidades Autónomas y, en consecuencia, inalineables, imprescriptibles e inembargables."
+  }
+ },
+ {
+  "id": "e1-063",
+  "pregunta": "Según el artículo 42 de la Ley 8/1998, de Vías Pecuarias de la Comunidad de Madrid, el límite máximo de velocidad de los vehículos que circulen por la vía, en los supuestos contemplados en la Ley, es de:",
+  "opciones": [
+   "10 kilómetros/hora",
+   "20 kilómetros/hora",
+   "30 kilómetros/hora",
+   "40 kilómetros/hora"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 42 Ley 8/1998.",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19980615 LEY 8-1998 DE VIAS PECUARIAS DE LA COMUNIDAD DEMADRID.txt",
+   "cita": "Se establece un límite máximo de velocidad de los vehículos que circulen por la vía, para los supuestos contemplados en esta Ley, de 20 kilómetros/hora"
+  }
+ },
+ {
+  "id": "e1-064",
+  "pregunta": "Según el Código Penal (Sección «De los incendios forestales»), los que incendiaren montes o masas forestales serán castigados con las penas de:",
+  "opciones": [
+   "Prisión de seis meses a dos años y multa de seis a doce meses",
+   "Prisión de uno a cinco años y multa de doce a dieciocho meses",
+   "Prisión de diez a veinte años",
+   "Prisión de tres a seis años y multa de dieciocho a veinticuatro meses"
+  ],
+  "correcta": 1,
+  "explicacion": "Tipo básico del delito de incendio forestal (art. 352 CP).",
+  "fuente": {
+   "documento": "OPO/Código Penal/Ley 10:1995 Código Penal.txt",
+   "cita": "Los que incendiaren montes o masas forestales, serán castigados con las penas de prisión de uno a cinco años y multa de doce a dieciocho meses."
+  }
+ },
+ {
+  "id": "e1-065",
+  "pregunta": "Según el Código Penal, el que, sin estar legalmente autorizado, emplee para la caza o pesca veneno, medios explosivos u otros instrumentos o artes de similar eficacia destructiva o no selectiva para la fauna será castigado con pena de PRISIÓN (al margen de la multa alternativa y de la inhabilitación) de:",
+  "opciones": [
+   "Tres meses a un año",
+   "Cuatro meses a dos años",
+   "Seis meses a tres años",
+   "Uno a cuatro años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 336 CP: prisión de cuatro meses a dos años o multa de ocho a veinticuatro meses, e inhabilitación especial en cualquier caso.",
+  "fuente": {
+   "documento": "OPO/Código Penal/Ley 10:1995 Código Penal.txt",
+   "cita": "será castigado con la pena de prisión de cuatro meses a dos años o multa de ocho a veinticuatro meses"
+  }
+ },
+ {
+  "id": "e1-066",
+  "pregunta": "Según el artículo 355 del Código Penal, en los delitos de incendio forestal los Jueces o Tribunales podrán acordar que la calificación del suelo en las zonas afectadas no pueda modificarse en un plazo de hasta:",
+  "opciones": [
+   "Diez años",
+   "Veinte años",
+   "Treinta años",
+   "Cincuenta años"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 355 CP.",
+  "fuente": {
+   "documento": "OPO/Código Penal/Ley 10:1995 Código Penal.txt",
+   "cita": "del suelo en las zonas afectadas por un incendio forestal no pueda modificarse en un plazo de hasta treinta años."
+  }
+ },
+ {
+  "id": "e1-067",
+  "pregunta": "Según la Orden JUS/1291/2010, sobre preparación y remisión de muestras al Instituto Nacional de Toxicología y Ciencias Forenses, el apartado «Cadena de custodia» de los formularios:",
+  "opciones": [
+   "Registra todos los intervinientes en la toma y cadena de custodia de las muestras",
+   "Describe el método analítico que debe aplicar el laboratorio",
+   "Recoge únicamente la firma del juez instructor",
+   "Es opcional y solo se cumplimenta en asuntos de toxicología"
+  ],
+  "correcta": 0,
+  "explicacion": "Orden JUS/1291/2010, contenido de los formularios, letra f). En todos los casos se envían cumplimentados los datos de cadena de custodia.",
+  "fuente": {
+   "documento": "OPO/Código Penal/T02 - 20100513 ORDEN JUS-1291-2010- TOMA DE MUESTRAS.txt",
+   "cita": "f) Cadena de custodia: Registra todos los intervinientes en la toma y cadena de custodia de las muestras."
+  }
+ },
+ {
+  "id": "e1-068",
+  "pregunta": "Según el artículo 12 de la Ley 5/2023, del Sistema Integrado de Protección Civil y Emergencias de la Comunidad de Madrid, el PLATERCAM es el instrumento organizativo general que prevé la respuesta a situaciones de grave riesgo colectivo, catástrofe o calamidad pública, y tiene el carácter de:",
+  "opciones": [
+   "Plan Especial",
+   "Plan de Autoprotección",
+   "Plan Director de acuerdo con la Norma Básica de Protección Civil",
+   "Plan de actuación de ámbito local"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 12.1 Ley 5/2023.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Ley 5:2023 - Sist. Integrado PC y Emergencias CAM.txt",
+   "cita": "Este plan tiene el carácter de Plan Director de acuerdo con la Norma Básica de Protección Civil."
+  }
+ },
+ {
+  "id": "e1-069",
+  "pregunta": "Según el artículo 12.2 de la Ley 5/2023 de la Comunidad de Madrid, la aprobación del Plan Territorial de Protección Civil de la Comunidad de Madrid (PLATERCAM) se realizará mediante:",
+  "opciones": [
+   "Ley de la Asamblea de Madrid",
+   "Acuerdo del Consejo de Gobierno, previo informe favorable de la Comisión de Protección Civil de la Comunidad de Madrid y del Consejo Nacional de Protección Civil",
+   "Orden del Consejero competente en materia de protección civil",
+   "Real Decreto del Consejo de Ministros"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 12.2 Ley 5/2023.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Ley 5:2023 - Sist. Integrado PC y Emergencias CAM.txt",
+   "cita": "2. Su aprobación se realizará mediante acuerdo del Consejo de Gobierno, previo informe favorable de la Comisión de Protección Civil de la Comunidad de Madrid y del Consejo Nacional de Protección Civil"
+  }
+ },
+ {
+  "id": "e1-070",
+  "pregunta": "Según el artículo 28 de la Ley 5/2023, la Agencia de Seguridad y Emergencias Madrid 112 se crea como:",
+  "opciones": [
+   "Organismo autónomo de carácter administrativo",
+   "Ente del Sector Público del artículo 6 de la Ley 9/1990, dotado de personalidad jurídica propia y plena capacidad de obrar",
+   "Dirección General integrada en la consejería competente en materia de protección civil",
+   "Consorcio entre la Comunidad de Madrid y los ayuntamientos"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 28.1 Ley 5/2023.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Ley 5:2023 - Sist. Integrado PC y Emergencias CAM.txt",
+   "cita": "1. Se crea la Agencia de Seguridad y Emergencias Madrid 112 como Ente del Sector Público del artículo 6 de la Ley 9/1990, de 8 de noviembre, reguladora de la Hacienda de la Comunidad de Madrid, dotado de personalidad jurídica propia y plena capacidad de obrar"
+  }
+ },
+ {
+  "id": "e1-071",
+  "pregunta": "Según el Decreto 252/2023, por el que se aprueba el estatuto de la Agencia de Seguridad y Emergencias Madrid 112, esta Agencia presta el servicio público de atención de llamadas de urgencia a través del número 112 una vez quedó extinguido:",
+  "opciones": [
+   "El Consorcio Regional de Emergencias",
+   "El organismo autónomo Madrid 112, por la Ley 5/2023",
+   "Un servicio municipal de atención de urgencias",
+   "El Cuerpo de Bomberos de la Comunidad de Madrid"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 252/2023, parte expositiva.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Decreto 252:2023 - Estatuto ASEM 112.txt",
+   "cita": "una vez quedó extinguido el organismo autónomo Madrid 112 por la Ley 5/2023, de 22 de marzo."
+  }
+ },
+ {
+  "id": "e1-072",
+  "pregunta": "Según el artículo 3 de la Ley 50/1999, sobre animales potencialmente peligrosos, la licencia administrativa para su tenencia será otorgada, con carácter general, por:",
+  "opciones": [
+   "La Comunidad Autónoma de residencia del solicitante",
+   "El Ayuntamiento del municipio de residencia del solicitante",
+   "La Subdelegación del Gobierno",
+   "La Guardia Civil a través de la Intervención de Armas"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 3.1 Ley 50/1999 (o el Ayuntamiento donde se realiza la actividad de comercio o adiestramiento).",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 50:1999 Animales potencialmente peligrosos.txt",
+   "cita": "requerirá la previa obtención de una licencia administrativa, que será otorgada por el Ayuntamiento del municipio de residencia del solicitante"
+  }
+ },
+ {
+  "id": "e1-073",
+  "pregunta": "Según la Ley 7/2023, de protección de los derechos y el bienestar de los animales, en el caso de la especie canina, queda prohibido dejarlos sin supervisión durante más de:",
+  "opciones": [
+   "Doce horas consecutivas",
+   "Veinticuatro horas consecutivas",
+   "Tres días consecutivos",
+   "Cinco días consecutivos"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 7/2023, prohibiciones, letra i): tres días para cualquier animal de compañía y veinticuatro horas para la especie canina.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 7:2023 - Bienestar animal.txt",
+   "cita": "i) Dejar sin supervisión a cualquier animal de compañía durante más de tres días consecutivos; en el caso de la especie canina, este plazo no podrá ser superior a veinticuatro horas consecutivas."
+  }
+ },
+ {
+  "id": "e1-074",
+  "pregunta": "Según la Ley 4/2016, de Protección de los Animales de Compañía de la Comunidad de Madrid, la identificación de los perros y gatos se realizará:",
+  "opciones": [
+   "Antes del mes de edad",
+   "Antes de los tres meses de edad",
+   "Antes de los seis meses de edad",
+   "En el momento de su primera vacunación, sin plazo fijo"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 4/2016, identificación de los animales, apartado 1.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 4:2016 - Animales de compañia CAM.txt",
+   "cita": "1. La identificación de los perros y gatos se realizará antes de los tres meses de edad"
+  }
+ },
+ {
+  "id": "e1-075",
+  "pregunta": "Según la Ley 4/2016 de la Comunidad de Madrid, ¿cuál de los siguientes animales NO figura entre los que serán obligatoriamente objeto de identificación mediante microchip?",
+  "opciones": [
+   "Hurones",
+   "Conejos",
+   "Équidos",
+   "Aves"
+  ],
+  "correcta": 3,
+  "explicacion": "Ley 4/2016: microchip para perros, gatos, hurones, conejos y équidos; las aves se identifican mediante anillado desde su nacimiento.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 4:2016 - Animales de compañia CAM.txt",
+   "cita": "Serán obligatoriamente objeto de identificación, mediante microchip, los perros, gatos, hurones, conejos y équidos. Las aves serán identificadas mediante anillado desde su nacimiento."
+  }
+ },
+ {
+  "id": "e1-076",
+  "pregunta": "Según la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se entiende por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo:",
+  "opciones": [
+   "Sean exactamente el cincuenta por ciento",
+   "No superen el sesenta por ciento ni sean menos del cuarenta por ciento",
+   "No superen el setenta por ciento ni sean menos del treinta por ciento",
+   "No sean menos del veinticinco por ciento"
+  ],
+  "correcta": 1,
+  "explicacion": "Disposición adicional primera LO 3/2007.",
+  "fuente": {
+   "documento": "OPO/Igualdad/LO 3:2007, igualdad efectiva.txt",
+   "cita": "las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento."
+  }
+ },
+ {
+  "id": "e1-077",
+  "pregunta": "Según el artículo 3 de la Ley Orgánica 3/2007, el principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo y, especialmente, las derivadas de:",
+  "opciones": [
+   "La edad, la nacionalidad y la religión",
+   "La maternidad, la asunción de obligaciones familiares y el estado civil",
+   "La orientación sexual y la identidad de género",
+   "El nivel de estudios y la categoría profesional"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 3 LO 3/2007.",
+  "fuente": {
+   "documento": "OPO/Igualdad/LO 3:2007, igualdad efectiva.txt",
+   "cita": "discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil."
+  }
+ },
+ {
+  "id": "e1-078",
+  "pregunta": "Según el artículo 11 de la Ley Orgánica 3/2007, las acciones positivas que adopten los Poderes Públicos en favor de las mujeres:",
+  "opciones": [
+   "Tendrán carácter permanente e indefinido",
+   "Serán aplicables en tanto subsistan las situaciones de desigualdad y habrán de ser razonables y proporcionadas en relación con el objetivo perseguido",
+   "Solo podrán adoptarse por las Administraciones Públicas, nunca por personas privadas",
+   "Requieren en todo caso aprobación por ley orgánica"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 11 LO 3/2007 (también las personas físicas y jurídicas privadas podrán adoptarlas).",
+  "fuente": {
+   "documento": "OPO/Igualdad/LO 3:2007, igualdad efectiva.txt",
+   "cita": "Tales medidas, que serán aplicables en tanto subsistan dichas situaciones, habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso."
+  }
+ },
+ {
+  "id": "e1-079",
+  "pregunta": "Según el artículo 1 de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, la Ley actúa contra la violencia que se ejerce sobre las mujeres por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad:",
+  "opciones": [
+   "Solo si existe convivencia",
+   "Aun sin convivencia",
+   "Solo si hay hijos en común",
+   "Solo si la relación ha durado más de un año"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 1.1 LO 1/2004.",
+  "fuente": {
+   "documento": "OPO/Igualdad/LO 1:2004, Medidas protección integral.txt",
+   "cita": "de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia."
+  }
+ },
+ {
+  "id": "e1-080",
+  "pregunta": "Según el artículo 1 de la Ley 26/2007, de Responsabilidad Medioambiental, esta ley regula la responsabilidad de los operadores de prevenir, evitar y reparar los daños medioambientales de conformidad con los principios de:",
+  "opciones": [
+   "Precaución y proporcionalidad",
+   "Prevención y de que «quien contamina paga»",
+   "Subsidiariedad y solidaridad",
+   "Legalidad y tipicidad"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 1 Ley 26/2007, en relación con el art. 45 CE.",
+  "fuente": {
+   "documento": "OPO/Responsabilidad medioambiental/BOE-A-2007-18475-consolidado.txt",
+   "cita": "daños medioambientales, de conformidad con el artículo 45 de la Constitución y con los principios de prevención y de que «quien contamina paga»."
+  }
+ },
+ {
+  "id": "e1-081",
+  "pregunta": "Según el artículo 4 de la Ley 26/2007, de Responsabilidad Medioambiental, la ley no será de aplicación a los daños medioambientales si desde que tuvo lugar la emisión, el suceso o el incidente que los causó han transcurrido más de:",
+  "opciones": [
+   "Cinco años",
+   "Diez años",
+   "Veinte años",
+   "Treinta años"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 4 Ley 26/2007.",
+  "fuente": {
+   "documento": "OPO/Responsabilidad medioambiental/BOE-A-2007-18475-consolidado.txt",
+   "cita": "Esta ley no será de aplicación a los daños medioambientales si han transcurrido más de treinta años desde que tuvo lugar la emisión, el suceso o el incidente que los causó."
+  }
+ },
+ {
+  "id": "e1-082",
+  "pregunta": "Según el artículo 5 de la Ley 26/2007, de Responsabilidad Medioambiental, señale la afirmación correcta:",
+  "opciones": [
+   "La ley ampara las acciones por lesiones causadas a las personas si derivan de un daño medioambiental",
+   "La ley no ampara el ejercicio de acciones por lesiones causadas a las personas ni por daños causados a la propiedad privada",
+   "La ley ampara cualquier pérdida económica derivada de los mismos hechos",
+   "La ley sustituye a la legislación civil en materia de daños patrimoniales"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 5.1 Ley 26/2007.",
+  "fuente": {
+   "documento": "OPO/Responsabilidad medioambiental/BOE-A-2007-18475-consolidado.txt",
+   "cita": "1. Esta Ley no ampara el ejercicio de acciones por lesiones causadas a las personas, a los daños causados a la propiedad privada, a ningún tipo de pérdida económica"
+  }
+ },
+ {
+  "id": "e1-083",
+  "pregunta": "¿Cuál de los siguientes NO figura entre los principios generales de la acción preventiva del artículo 15.1 de la Ley 31/1995, de Prevención de Riesgos Laborales?",
+  "opciones": [
+   "Combatir los riesgos en su origen",
+   "Sustituir lo peligroso por lo que entrañe poco o ningún peligro",
+   "Adoptar medidas que antepongan la protección colectiva a la individual",
+   "Anteponer la protección individual a la colectiva cuando resulte más económica"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 15.1 LPRL: la protección colectiva se antepone a la individual (letra h).",
+  "fuente": {
+   "documento": "OPO/PRL/T29 - 19951108 Ley 31-1995 de prevenciÃ³n de riesgos laborales CONSOLIDADA.txt",
+   "cita": "h) Adoptar medidas que antepongan la protección colectiva a la individual."
+  }
+ },
+ {
+  "id": "e1-084",
+  "pregunta": "Según el artículo 35.1 de la Ley 31/1995, de Prevención de Riesgos Laborales, los Delegados de Prevención son:",
+  "opciones": [
+   "Técnicos designados por el empresario para organizar la prevención",
+   "Los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo",
+   "Funcionarios de la Inspección de Trabajo",
+   "Miembros del servicio de prevención ajeno"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 35.1 LPRL.",
+  "fuente": {
+   "documento": "OPO/PRL/T29 - 19951108 Ley 31-1995 de prevenciÃ³n de riesgos laborales CONSOLIDADA.txt",
+   "cita": "1. Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo."
+  }
+ },
+ {
+  "id": "e1-085",
+  "pregunta": "Según el artículo 29.1 de la Ley 31/1995, de Prevención de Riesgos Laborales, corresponde a cada trabajador velar, según sus posibilidades y mediante el cumplimiento de las medidas de prevención adoptadas:",
+  "opciones": [
+   "Únicamente por su propia seguridad y salud en el trabajo",
+   "Por su propia seguridad y salud en el trabajo y por la de aquellas otras personas a las que pueda afectar su actividad profesional",
+   "Por la seguridad de todos los trabajadores de la empresa, sustituyendo al empresario",
+   "Por el cumplimiento del plan de prevención de la empresa, sin responsabilidad personal"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 29.1 LPRL.",
+  "fuente": {
+   "documento": "OPO/PRL/T29 - 19951108 Ley 31-1995 de prevenciÃ³n de riesgos laborales CONSOLIDADA.txt",
+   "cita": "propia seguridad y salud en el trabajo y por la de aquellas otras personas a las que pueda afectar su actividad profesional"
+  }
+ },
+ {
+  "id": "e1-086",
+  "pregunta": "Según el Estatuto de Autonomía de la Comunidad de Madrid, la Asamblea es elegida por:",
+  "opciones": [
+   "Cuatro años mediante sufragio universal, libre, igual, directo y secreto, atendiendo a criterios de representación proporcional",
+   "Cinco años mediante sufragio universal y directo, con sistema mayoritario",
+   "Cuatro años mediante sufragio indirecto de los ayuntamientos",
+   "Seis años, renovándose por mitades cada tres"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 10.1 del Estatuto de Autonomía de la Comunidad de Madrid.",
+  "fuente": {
+   "documento": "OPO/EA Madrid/Ley 3:1983 Estatuto CAM.txt",
+   "cita": "1. La Asamblea es elegida por cuatro años mediante sufragio universal, libre, igual, directo y secreto, atendiendo a criterios de representación proporcional."
+  }
+ },
+ {
+  "id": "e1-087",
+  "pregunta": "Según el Estatuto de Autonomía de la Comunidad de Madrid, la capital de la Comunidad, sede de sus instituciones, es:",
+  "opciones": [
+   "La villa de Madrid, sin que sus organismos puedan ubicarse en otros municipios",
+   "La villa de Madrid, pudiendo sus organismos, servicios y dependencias localizarse en otros municipios de la Comunidad",
+   "Alcalá de Henares",
+   "La que determine cada legislatura la Asamblea de Madrid"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 5 del Estatuto de Autonomía, criterios de descentralización, desconcentración y coordinación.",
+  "fuente": {
+   "documento": "OPO/EA Madrid/Ley 3:1983 Estatuto CAM.txt",
+   "cita": "La capital de la Comunidad, sede de sus instituciones, es la villa de Madrid, pudiendo sus organismos, servicios y dependencias localizarse en otros municipios del territorio de la Comunidad"
+  }
+ },
+ {
+  "id": "e1-088",
+  "pregunta": "Según el Decreto 38/2023, por el que se establece el número y denominación de las Consejerías de la Comunidad de Madrid, la Administración de la Comunidad queda organizada en:",
+  "opciones": [
+   "Siete Consejerías",
+   "Ocho Consejerías",
+   "Nueve Consejerías",
+   "Once Consejerías"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 1 del Decreto 38/2023; entre ellas, la de Medio Ambiente, Agricultura e Interior.",
+  "fuente": {
+   "documento": "OPO/EA Madrid/T01 - 20230623 Decreto 38-2023 nÃºmero y denominaciÃ³n ConsejerÃ­as.txt",
+   "cita": "Consejerías y se reorganizan sus competencias para, por un lado, mantener el número de nueve Consejerías"
+  }
+ },
+ {
+  "id": "e1-089",
+  "pregunta": "Según el artículo tercero de la Ley 22/1973, de Minas, las aguas minerales y las termales pertenecen a la sección:",
+  "opciones": [
+   "A)",
+   "B)",
+   "C)",
+   "D)"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 3.Uno Ley de Minas.",
+  "fuente": {
+   "documento": "OPO/Minas/Ley 22-1973 de Minas consolidado.txt",
+   "cita": "B) Incluye, con arreglo a las definiciones que establece el capítulo primero del título IV, las aguas minerales, las termales, las estructuras subterráneas"
+  }
+ },
+ {
+  "id": "e1-090",
+  "pregunta": "Según la Ley 22/1973, de Minas, los carbones, los minerales radiactivos, los recursos geotérmicos y las rocas bituminosas se incluyen en la sección:",
+  "opciones": [
+   "A)",
+   "B)",
+   "C)",
+   "D)"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 3.Uno.D) Ley de Minas.",
+  "fuente": {
+   "documento": "OPO/Minas/Ley 22-1973 de Minas consolidado.txt",
+   "cita": "D) Los carbones, los minerales radiactivos, los recursos geotérmicos, las rocas bituminosas"
+  }
+ },
+ {
+  "id": "e1-091",
+  "pregunta": "Según el artículo segundo de la Ley 22/1973, de Minas, todos los yacimientos de origen natural y demás recursos geológicos existentes en el territorio nacional, mar territorial y plataforma continental son:",
+  "opciones": [
+   "Bienes patrimoniales del Estado",
+   "Bienes de dominio público",
+   "Bienes privados del propietario del suelo",
+   "Bienes comunales de los municipios"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 2.Uno Ley de Minas.",
+  "fuente": {
+   "documento": "OPO/Minas/Ley 22-1973 de Minas consolidado.txt",
+   "cita": "el territorio nacional, mar territorial y plataforma continental, son bienes de dominio público"
+  }
+ },
+ {
+  "id": "e1-092",
+  "pregunta": "Según el Decreto 110/1988, con carácter general la circulación de vehículos a motor en los montes a cargo de la Comunidad de Madrid se limita a:",
+  "opciones": [
+   "Las pistas forestales de más de cuatro metros de anchura",
+   "Las vías de tránsito autorizadas y a las áreas específicamente acondicionadas o que se acondicionen para ello, con la correspondiente señalización",
+   "Los días laborables y en horario diurno",
+   "Los vehículos de los propietarios de fincas colindantes"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 1 del Decreto 110/1988.",
+  "fuente": {
+   "documento": "OPO/Usos/T35 - 19881027 DECRETO 110-1988 CIRCULACIÃN VEHÃCULOS A MOTOR COMUNIDAD DE MADRID.txt",
+   "cita": "Comunidad de Madrid se limita a las vías de tránsito autorizadas y a las áreas específicamente acondicionadas o que se acondicionen para ello, con la correspondiente señalización."
+  }
+ },
+ {
+  "id": "e1-093",
+  "pregunta": "Según el artículo 2 del Decreto 110/1988, ¿en cuál de los siguientes supuestos NO está permitida la circulación de vehículos a motor fuera de las zonas y vías de tránsito autorizadas en los montes a cargo de la Comunidad de Madrid?",
+  "opciones": [
+   "Para realizar funciones de vigilancia",
+   "Para el desarrollo de los distintos aprovechamientos",
+   "En casos de emergencia o de fuerza mayor",
+   "Para actividades recreativas de clubes deportivos federados"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 2 del Decreto 110/1988.",
+  "fuente": {
+   "documento": "OPO/Usos/T35 - 19881027 DECRETO 110-1988 CIRCULACIÃN VEHÃCULOS A MOTOR COMUNIDAD DE MADRID.txt",
+   "cita": "autorizadas, estará permitida siempre que sea preciso para realizar funciones de vigilancia u otras relacionadas con la gestión técnica de los predios, o para el desarrollo de los distintos aprovechamientos, así como en casos de emergencia o de fuerza mayor."
+  }
+ },
+ {
+  "id": "e1-094",
+  "pregunta": "Según la Resolución de 27 de julio de 1989 de la Agencia de Medio Ambiente, con carácter general la circulación de bicicletas y velocípedos en los montes administrados por la Comunidad de Madrid:",
+  "opciones": [
+   "Es libre en todo el monte salvo en época de peligro alto de incendios",
+   "Se limitará a las vías de tránsito autorizadas y a las rutas, pistas y áreas específicamente acondicionadas mediante la correspondiente señalización",
+   "Está prohibida salvo autorización individual",
+   "Solo se permite en grupos de menos de diez personas"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 1 de la Resolución de 27/7/1989.",
+  "fuente": {
+   "documento": "OPO/Usos/T35 - 19890727 RESOLUCIÃN 27-07-1989 CIRCULACIÃN BICICLETAS Y VELOCÃPEDOS COMUNIDAD DE MADRID.txt",
+   "cita": "montes administrados por la Comunidad de Madrid, se limitará a las vías de tránsito autorizadas y a las rutas, pistas y áreas específicamente acondicionadas"
+  }
+ },
+ {
+  "id": "e1-095",
+  "pregunta": "Según el tema de Ecosistemas de la Comunidad de Madrid, los bosques típicos de roble melojo o rebollo (Quercus pyrenaica) se encuentran en torno a cotas de:",
+  "opciones": [
+   "600 a 900 metros",
+   "900 a 1.200 metros",
+   "1.200 a 1.700 metros",
+   "1.700 a 2.100 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Tema 20, Ecosistemas: bosques marcescentes y caducifolios, melojar.",
+  "fuente": {
+   "documento": "OPO/Medio/T20 - TEMA ECOSISTEMAS.txt",
+   "cita": "rebollo (Quercus pyrenaica) en torno a cotas de 1.200 a 1.700 metros"
+  }
+ },
+ {
+  "id": "e1-096",
+  "pregunta": "Según el tema de Ecosistemas de la Comunidad de Madrid, se denominan bosques marcescentes los compuestos de especies arbóreas que:",
+  "opciones": [
+   "Pierden la hoja al comienzo del otoño",
+   "Mantienen la hoja verde todo el año",
+   "Conservan su hoja seca durante todo el invierno expulsándola cuando empujan los nuevos brotes",
+   "Solo crecen por encima de los 2.000 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Tema 20, Ecosistemas, melojar.",
+  "fuente": {
+   "documento": "OPO/Medio/T20 - TEMA ECOSISTEMAS.txt",
+   "cita": "especies arbóreas que conservan su hoja seca durante todo el invierno expulsándola cuando empujan los nuevos brotes"
+  }
+ },
+ {
+  "id": "e1-097",
+  "pregunta": "Según el artículo 63 de la Ley 8/2023, de Patrimonio Cultural de la Comunidad de Madrid, el descubridor casual y el propietario del terreno tendrán derecho a percibir, en concepto de premio, una cantidad que se distribuirá entre ellos a partes iguales y que será equivalente a:",
+  "opciones": [
+   "La cuarta parte del valor de tasación legal del bien",
+   "La mitad del valor que en tasación legal se atribuya al bien",
+   "El valor íntegro de tasación del bien",
+   "Una cantidad fija establecida por orden anual"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 63.2 Ley 8/2023 (los bienes inmuebles no generan derecho a premio).",
+  "fuente": {
+   "documento": "OPO/Patrimonio histórico/T37 - 20230330 Ley 8-2023 Patrimonio BOCM-20230412-3.txt",
+   "cita": "ellos a partes iguales y que será equivalente a la mitad del valor que en tasación legal se atribuya al bien."
+  }
+ },
+ {
+  "id": "e1-098",
+  "pregunta": "Según el artículo 62 de la Ley 8/2023, de Patrimonio Cultural de la Comunidad de Madrid, el hallazgo casual de restos materiales se comunicará inmediatamente a:",
+  "opciones": [
+   "El Ayuntamiento del término municipal y al Juzgado",
+   "La Consejería competente en materia de patrimonio cultural y a las Fuerzas y Cuerpos de Seguridad del Estado",
+   "El Ministerio de Cultura exclusivamente",
+   "El Museo Arqueológico Regional"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 62.2 Ley 8/2023.",
+  "fuente": {
+   "documento": "OPO/Patrimonio histórico/T37 - 20230330 Ley 8-2023 Patrimonio BOCM-20230412-3.txt",
+   "cita": "2. El hallazgo casual de restos materiales se comunicará inmediatamente a la Consejería competente en materia de patrimonio cultural y a las Fuerzas y Cuerpos de Seguridad del Estado."
+  }
+ },
+ {
+  "id": "e1-099",
+  "pregunta": "¿Qué aprueba el Decreto 144/2018, de 2 de octubre, del Consejo de Gobierno de la Comunidad de Madrid?",
+  "opciones": [
+   "El Catálogo Regional de Especies Amenazadas",
+   "El Plan de Actuación contra el uso ilegal de veneno en el medio natural de la Comunidad de Madrid",
+   "El Reglamento de la Ley de Caza de la Comunidad de Madrid",
+   "La Estrategia nacional contra el uso ilegal de cebos envenenados"
+  ],
+  "correcta": 1,
+  "explicacion": "Título del Decreto 144/2018.",
+  "fuente": {
+   "documento": "OPO/Venenos/Decreto 144:2018.txt",
+   "cita": "aprueba el Plan de Actuación contra el uso ilegal de veneno en el medio natural de la Comunidad de Madrid."
+  }
+ },
+ {
+  "id": "e1-100",
+  "pregunta": "Según el Decreto 144/2018, la «Estrategia nacional contra el uso ilegal de cebos envenenados en el medio natural», en la que se enmarca, fue aprobada por:",
+  "opciones": [
+   "El Consejo de Gobierno de la Comunidad de Madrid en 2018",
+   "La Comisión Nacional de Protección de la Naturaleza el 23 de septiembre de 2004",
+   "El Consejo de Ministros en 2007, junto con la Ley 42/2007",
+   "La Conferencia Sectorial de Medio Ambiente en 1992"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 144/2018, parte expositiva.",
+  "fuente": {
+   "documento": "OPO/Venenos/Decreto 144:2018.txt",
+   "cita": "aprobada por la Comisión Nacional de Protección de la Naturaleza el 23 de septiembre de 2004"
+  }
+ }
+]

@@ -3,3 +3,7 @@ temario/*
 !temario/.gitkeep
 .claude/settings.local.json
 __pycache__/
+# Exámenes de muestra: solo referencia de formato, NUNCA fuente de preguntas
+muestras/
+# PDF escaneados sin capa de texto: fuera del temario por orden del mando (no citables)
+temario_excluido/

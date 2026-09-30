@@ -4,7 +4,7 @@
 - Cada pregunta y su respuesta correcta se basan **única, exclusiva y únicamente** en el temario
   entregado por Sara (`temario/`). Nada de conocimiento externo, ni "lo que dice la ley vigente",
   ni completar huecos del temario.
-- Cada pregunta lleva `fuente.documento` (nombre del .txt en `temario/`) y `fuente.cita`
+- Cada pregunta lleva `fuente.documento` (ruta relativa del .txt dentro de `temario/`, p. ej. `OPO/Montes/Ley_43_2003_Montes.txt`) y `fuente.cita`
   (fragmento **literal** del temario que sostiene la respuesta correcta, ≥25 caracteres).
 - La respuesta correcta se verifica contra la cita **antes** de escribirla. Los distractores deben ser
   incorrectos según el propio temario, no según fuentes externas.
@@ -27,9 +27,17 @@ verificación humana (los avisos de solape bajo obligan a revisarla a mano). No 
    negativas ("señale la INCORRECTA") sin uniformarlo; sin duplicados entre exámenes.
 5. `temario/` está en `.gitignore`: el material de Sara no se publica. Ningún secreto en el código.
 
+## Decisiones del mando (2026-09-30)
+- Oposición: Agentes Forestales de la Comunidad de Madrid (C1). Examen de 100 preguntas, 4 opciones (a-d),
+  cubre TODO el temario (reparto entre temas, no por bloques).
+- Fuera del temario: `0_PAPELEO_0`, comparativa, `Libros fauna, etc` y los 15 PDF escaneados
+  (`temario_excluido/`). Las fotos del catálogo de especies no son citables.
+- `muestras/` = exámenes reales/simulacros: SOLO referencia de formato y estilo. Nunca fuente ni cita.
+- Se publica en GitHub Pages.
+
 ## Formato de pregunta
 ```json
-{"id":"e1-001","pregunta":"…","opciones":["…","…","…"],"correcta":0,
+{"id":"e1-001","pregunta":"…","opciones":["…","…","…","…"],"correcta":0,
  "explicacion":"Tema X, apartado Y, literal.",
- "fuente":{"documento":"tema-01.txt","cita":"fragmento literal del temario"}}
+ "fuente":{"documento":"OPO/Montes/Ley_43_2003_Montes.txt","cita":"fragmento literal del temario"}}
 ```

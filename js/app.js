@@ -12,7 +12,7 @@
   'use strict';
 
   const ETIQUETAS_CATEGORIA = {
-    // Se rellena al recibir el temario (clave de categoría -> etiqueta visible)
+    examen: 'Exámenes completos · Agentes Forestales CAM'
   };
 
   const RETARDO_AVANCE_MS = 350;

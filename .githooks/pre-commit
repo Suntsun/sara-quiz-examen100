@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
-# Guardián de integridad del temario: ningún commit con preguntas no verificadas.
+# Dos guardianes en cada commit. core.hooksPath=.githooks anula el hook global,
+# por eso el Guardián de las Sombras (secretos) se encadena aquí explícitamente.
 cd "$(git rev-parse --show-toplevel)" || exit 1
-python3 tools/validar_integridad.py || {
+python3 tools/validar_integridad.py --quiet || {
   echo "Commit bloqueado: hay preguntas que no se sostienen literalmente en el temario." >&2
   exit 1
 }
+GLOBAL_HOOK="$HOME/.config/git/hooks/pre-commit"
+if [ -x "$GLOBAL_HOOK" ]; then
+  "$GLOBAL_HOOK" || { echo "Commit bloqueado por el guardián de secretos." >&2; exit 1; }
+fi

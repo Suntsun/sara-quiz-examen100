@@ -4,12 +4,12 @@ validar_integridad.py — Guardián de integridad del temario.
 
 REGLA DURA: toda pregunta se basa única y exclusivamente en el temario
 entregado. Cada pregunta lleva una cita literal (`fuente.cita`) que debe
-existir tal cual en el texto extraído del documento fuente (`temario/*.txt`).
+existir tal cual en el texto extraído del documento fuente (`temario/**/*.txt`, ruta relativa).
 Si la cita no aparece, la pregunta no entra.
 
 Bloquea (exit 1):
   - temario/ sin textos extraídos (no se puede verificar = no se acepta)
-  - esquema inválido (id, pregunta, opciones 3-4 únicas, correcta en rango)
+  - esquema inválido (id, pregunta, 4 opciones únicas, correcta en rango)
   - falta fuente.documento o fuente.cita, o la cita tiene < 25 caracteres
   - la cita no aparece literal en el documento indicado
   - ids o enunciados duplicados entre todos los quizzes
@@ -30,6 +30,7 @@ DATA = RAIZ / "data"
 TEMARIO = RAIZ / "temario"
 MANIFEST = DATA / "quizzes-manifest.json"
 PREGUNTAS_POR_EXAMEN = 100
+OPCIONES = 4          # formato del examen oficial (a-d)
 MIN_CITA = 25
 UMBRAL_SOLAPE = 0.5
 
@@ -51,8 +52,8 @@ def main() -> int:
     quiet = "--quiet" in sys.argv
     errores, avisos = [], []
 
-    textos = {p.name: normalizar(p.read_text(encoding="utf-8"))
-              for p in sorted(TEMARIO.glob("*.txt"))}
+    textos = {p.relative_to(TEMARIO).as_posix(): normalizar(p.read_text(encoding="utf-8"))
+              for p in sorted(TEMARIO.rglob("*.txt"))}
 
     try:
         manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
@@ -99,9 +100,9 @@ def main() -> int:
                 enunciados[enun] = tag
 
             ops = q.get("opciones")
-            if not isinstance(ops, list) or len(ops) not in (3, 4) \
+            if not isinstance(ops, list) or len(ops) != OPCIONES \
                     or any(not str(o).strip() for o in ops):
-                errores.append(f"{tag}: opciones deben ser 3 o 4 textos no vacíos")
+                errores.append(f"{tag}: opciones deben ser {OPCIONES} textos no vacíos")
                 continue
             if len({normalizar(o).lower() for o in ops}) != len(ops):
                 errores.append(f"{tag}: opciones repetidas")
