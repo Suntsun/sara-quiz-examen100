@@ -67,6 +67,7 @@ def main() -> int:
         return 1
 
     ids, enunciados, total = {}, {}, 0
+    citas = {}  # cita normalizada -> fichero (detecta el mismo dato repetido entre exámenes)
     for entrada in manifest:
         ruta = RAIZ / entrada.get("archivo", "")
         if not ruta.is_file():
@@ -126,6 +127,11 @@ def main() -> int:
             if cita_n not in textos[doc]:
                 errores.append(f"{tag}: la cita NO aparece literal en {doc}")
                 continue
+
+            previa = citas.get(cita_n)
+            if previa and previa[0] != ruta.name:
+                avisos.append(f"{tag}: misma cita que {previa[1]} — posible dato repetido entre exámenes")
+            citas.setdefault(cita_n, (ruta.name, tag))
 
             clave = palabras(ops[c])
             if clave:

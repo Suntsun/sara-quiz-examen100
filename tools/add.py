@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Añade preguntas (JSON en stdin: lista) a data/examen-01.json y valida al momento."""
+"""Añade preguntas (JSON en stdin: lista) a data/<examen>.json (arg 1, por defecto examen-01) y valida."""
 import json, sys, subprocess
 from pathlib import Path
 R = Path(__file__).resolve().parent.parent
-f = R / "data/examen-01.json"
+f = R / "data" / ((sys.argv[1] if len(sys.argv) > 1 else "examen-01") + ".json")
 pool = json.loads(f.read_text()) if f.exists() else []
 nuevas = json.load(sys.stdin)
 pool += nuevas

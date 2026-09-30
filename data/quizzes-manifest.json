@@ -1,1 +1,14 @@
-[{"id":"examen-01","titulo":"Examen 1 — Todo el temario (100 preguntas)","categoria":"examen","archivo":"data/examen-01.json"}]
+[
+  {
+    "id": "examen-01",
+    "titulo": "Examen 1 — Todo el temario (100 preguntas)",
+    "categoria": "examen",
+    "archivo": "data/examen-01.json"
+  },
+  {
+    "id": "examen-02",
+    "titulo": "Examen 2 — Todo el temario (100 preguntas)",
+    "categoria": "examen",
+    "archivo": "data/examen-02.json"
+  }
+]
