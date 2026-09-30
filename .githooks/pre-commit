@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Guardián de integridad del temario: ningún commit con preguntas no verificadas.
+cd "$(git rev-parse --show-toplevel)" || exit 1
+python3 tools/validar_integridad.py || {
+  echo "Commit bloqueado: hay preguntas que no se sostienen literalmente en el temario." >&2
+  exit 1
+}

@@ -1,0 +1,5 @@
+# El temario (PDF y texto extraído) es material de la opositora: se queda en local.
+temario/*
+!temario/.gitkeep
+.claude/settings.local.json
+__pycache__/
