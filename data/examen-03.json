@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "e3-001",
+  "pregunta": "Según la Ley 43/2003, de Montes, las autorizaciones y concesiones para actividades de servicios en montes del dominio público forestal tendrán una duración:",
+  "opciones": [
+   "Máxima de 30 años, sin renovación automática",
+   "Máxima de 75 años, sin renovación automática",
+   "Máxima de 75 años, renovable una sola vez por igual plazo",
+   "Máxima de 99 años, de acuerdo con sus características"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 15 Ley 43/2003: como máximo 75 años, sin renovación automática ni ventajas para el anterior titular.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "La duración de dichas autorizaciones y concesiones será como máximo de 75 años, de acuerdo con sus características, y no dará lugar a renovación automática"
+  }
+ },
+ {
+  "id": "e3-002",
+  "pregunta": "Según la Ley 43/2003, cuando el registrador solicita informe para inscribir una finca colindante con monte demanial, ¿qué validez tiene la nota marginal de presentación?",
+  "opciones": [
+   "Tres meses",
+   "Seis meses",
+   "Cuatro meses",
+   "Un año"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 22 Ley 43/2003: los informes se entienden favorables a los tres meses sin contestación; la nota marginal tiene validez de cuatro meses.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "La nota marginal de presentación tendrá una validez de cuatro meses."
+  }
+ },
+ {
+  "id": "e3-003",
+  "pregunta": "Según la Ley 43/2003, y salvo que las comunidades autónomas establezcan cuantías menores, se consideran aprovechamientos de menor cuantía los inferiores a:",
+  "opciones": [
+   "20 metros cúbicos de madera o 10 estéreos de leñas",
+   "10 metros cúbicos de madera o 10 estéreos de leñas",
+   "20 metros cúbicos de madera o 20 estéreos de leñas",
+   "10 metros cúbicos de madera o 20 estéreos de leñas"
+  ],
+  "correcta": 3,
+  "explicacion": "Ley 43/2003: menor cuantía, inferiores a 10 m³ de madera o 20 estéreos de leñas.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "Se considerarán aprovechamientos de menor cuantía los inferiores a 10 metros cúbicos de madera o a 20 estéreos de leñas, salvo que las comunidades autónomas establezcan para su territorio cuantías menores."
+  }
+ },
+ {
+  "id": "e3-004",
+  "pregunta": "Según la Ley 43/2003, una infracción de los párrafos a) a n) del artículo 67 que cause al monte daños con un plazo de reparación inferior a 10 años y superior a seis meses se califica como:",
+  "opciones": [
+   "Leve",
+   "Grave",
+   "Muy grave",
+   "Leve o grave, según el coste de reposición sea inferior o superior a 100.000 euros"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 68.2.a) Ley 43/2003: grave cuando el plazo de reparación es inferior a 10 años y superior a seis meses (o coste de reposición entre 10.000 y 1.000.000 euros).",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_43_2003_Montes.txt",
+   "cita": "2. Son infracciones graves: a) Las infracciones tipificadas en los párrafos a) a n) del artículo anterior, cuando los hechos constitutivos de la infracción hayan causado al monte daños con unos costes de reposición iguales o superiores a 10.000 euros e inferiores a 1.000.000 euros o cuyo plazo de reparación o restauración sea inferior a 10 años y superior a seis meses."
+  }
+ },
+ {
+  "id": "e3-005",
+  "pregunta": "Según la Ley 16/1995, Forestal y de Protección de la Naturaleza de la Comunidad de Madrid, las sanciones impuestas por infracciones muy graves prescriben a los:",
+  "opciones": [
+   "Cinco años",
+   "Cuatro años",
+   "Tres años",
+   "Dos años"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 109 Ley 16/1995: 3 años las muy graves, dos las graves y uno las leves (a diferencia de la Ley 43/2003, que fija cinco años para las muy graves).",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "El plazo de prescripción de las sanciones será de 3 años para las impuestas por infracciones muy graves, dos años para las impuestas por infracciones graves y un año para las impuestas por infracciones leves."
+  }
+ },
+ {
+  "id": "e3-006",
+  "pregunta": "Según la Ley 16/1995 de la Comunidad de Madrid, el plazo máximo para resolver y notificar la resolución de los procedimientos de extinción de las autorizaciones y concesiones en montes de utilidad pública es de:",
+  "opciones": [
+   "Seis meses",
+   "Un año",
+   "Dos años",
+   "Tres meses"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 13.10 Ley 16/1995, añadido por la Ley 1/2022: 1 año.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "El plazo máximo para resolver y notificar la resolución de los procedimientos de extinción de las autorizaciones y concesiones en montes de utilidad pública será de 1 año."
+  }
+ },
+ {
+  "id": "e3-007",
+  "pregunta": "Según la Ley 16/1995 de la Comunidad de Madrid, la Comunidad podrá ejercer los derechos de tanteo y retracto sobre transmisiones onerosas de montes privados cuando, entre otros supuestos, superen la extensión de:",
+  "opciones": [
+   "100 hectáreas",
+   "500 hectáreas",
+   "250 hectáreas",
+   "50 hectáreas"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 26.1.b) Ley 16/1995: montes privados de más de 250 ha, procedentes de segregación o clasificados como protectores, protegidos o preservados.",
+  "fuente": {
+   "documento": "OPO/Montes/Ley_16_1995_Forestal_Madrid.txt",
+   "cita": "Montes privados, cuando superen la extensión de 250 hectáreas, procedan de la segregación de otras fincas"
+  }
+ },
+ {
+  "id": "e3-008",
+  "pregunta": "Según el Decreto 111/1988 (cortas en montes bajos de encina y rebollo), en los aprovechamientos a monte bajo se respetarán los mejores pies como resalvos a un espaciamiento de:",
+  "opciones": [
+   "4 por 4 metros (seiscientos veinticinco pies por hectárea)",
+   "5 por 5 metros (cuatrocientos pies por hectárea)",
+   "6 por 6 metros (doscientos setenta y ocho pies por hectárea)",
+   "10 por 10 metros (cien pies por hectárea)"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 2 Decreto 111/1988: resalvos a 5 x 5 metros, 400 pies/ha.",
+  "fuente": {
+   "documento": "OPO/Montes/Decreto 111:88.txt",
+   "cita": "los mejores pies como resalveos a espaciamiento de 5 por 5 metros (cuatrocientos pies por hectárea)"
+  }
+ },
+ {
+  "id": "e3-009",
+  "pregunta": "Según el Decreto 8/1986, sobre podas, limpias y aclareos de encinas, con carácter general no se podrán cortar ramas gruesas de diámetro superior a:",
+  "opciones": [
+   "10 centímetros, sin corteza",
+   "15 centímetros, incluida la corteza",
+   "20 centímetros, incluida la corteza",
+   "25 centímetros, sin corteza"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 2.1 Decreto 8/1986: 20 cm incluida la corteza, medidos en el lugar del corte, salvo ramas secas, decadentes o que interfieran con tendidos eléctricos.",
+  "fuente": {
+   "documento": "OPO/Montes/decreto 8:86.txt",
+   "cita": "En las podas no se podrán cortar ramas gruesas, superiores a 20 centímetros de diámetro, incluida la corteza, medidos en el lugar del corte"
+  }
+ },
+ {
+  "id": "e3-010",
+  "pregunta": "En Selvicultura, las especies que fructifican abundantemente todos los años se denominan:",
+  "opciones": [
+   "Veceras",
+   "Cadañegas",
+   "Eurioicas",
+   "Plurinodales"
+  ],
+  "correcta": 1,
+  "explicacion": "Apuntes de Selvicultura (Serrada): cadañegas fructifican todos los años; veceras presentan vecería.",
+  "fuente": {
+   "documento": "OPO/Montes/T31 - SERRADA 2011 Apuntes_de_Selvicultura_completo.txt",
+   "cita": "Las especies que fructifican abundantemente todos los años se llaman cadañegas y las que tienen vecería se llaman veceras."
+  }
+ },
+ {
+  "id": "e3-011",
+  "pregunta": "Para obtener la edad de un árbol con la barrena de Pressler, el sondeo se realiza próximo a la base del árbol, a una altura aproximada de:",
+  "opciones": [
+   "1,30 metros",
+   "40 centímetros",
+   "10 centímetros",
+   "70 centímetros"
+  ],
+  "correcta": 1,
+  "explicacion": "Tema de Dasometría: sondeo a unos 40 cm de altura, hasta al menos la mitad del árbol, sumando los años que tardó en alcanzar esa altura.",
+  "fuente": {
+   "documento": "OPO/Montes/1-Dasometría.txt",
+   "cita": "El sondeo se realiza próximo a la base del árbol a unos 40 cm. de altura, introduciéndola por lo menos hasta la mitad del árbol."
+  }
+ },
+ {
+  "id": "e3-012",
+  "pregunta": "Según la Ley 42/2007, una vez aprobadas o ampliadas las listas de LIC por la Comisión Europea, estos serán declarados como ZEC lo antes posible y como máximo en un plazo de:",
+  "opciones": [
+   "2 años",
+   "6 años",
+   "6 meses",
+   "10 años"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 42/2007 (Red Natura 2000): ZEC en un plazo máximo de 6 años, junto con el plan o instrumento de gestión. Los 6 meses son el plazo para publicar los límites tras proponer un LIC.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "como ZEC lo antes posible y como máximo en un plazo de 6 años, junto con la aprobación del correspondiente plan o instrumento de gestión."
+  }
+ },
+ {
+  "id": "e3-013",
+  "pregunta": "Según la Ley 42/2007, las sanciones impuestas por infracciones graves prescriben a los:",
+  "opciones": [
+   "2 años",
+   "3 años",
+   "4 años",
+   "5 años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 83 Ley 42/2007: muy graves a los 5 años, graves a los 3 años y leves al año (la Ley 43/2003 de Montes fija dos años para las graves).",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los 5 años, en tanto que las impuestas por faltas graves o leves lo harán a los 3 años y al año, respectivamente."
+  }
+ },
+ {
+  "id": "e3-014",
+  "pregunta": "Según la Ley 42/2007, el real decreto que apruebe el Plan Estratégico Estatal del Patrimonio Natural y de la Biodiversidad especificará su período de vigencia, que en todo caso no podrá ser superior a:",
+  "opciones": [
+   "Cinco años",
+   "Seis años",
+   "Diez años",
+   "Veinte años"
+  ],
+  "correcta": 2,
+  "explicacion": "Ley 42/2007: aprobación por real decreto en un plazo máximo de dos años; vigencia no superior a diez años.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "El real decreto deberá especificar el período de vigencia del Plan que, en todo caso, no podrá ser superior a diez años."
+  }
+ },
+ {
+  "id": "e3-015",
+  "pregunta": "Según la Ley 42/2007, con carácter general y sin perjuicio de los pagos compensatorios que pudieran establecerse, los daños ocasionados por las especies de fauna silvestre:",
+  "opciones": [
+   "Son responsabilidad de la comunidad autónoma donde se produzcan",
+   "Son responsabilidad del titular del terreno cinegético",
+   "No son responsabilidad de las Administraciones públicas, excepto en los supuestos de la normativa sectorial específica",
+   "Se indemnizan con cargo al Fondo para el Patrimonio Natural y la Biodiversidad"
+  ],
+  "correcta": 2,
+  "explicacion": "Ley 42/2007: con carácter general las Administraciones públicas no son responsables, salvo lo previsto en la normativa sectorial.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_42_2007_PatrimonioNatural_Biodiversidad.txt",
+   "cita": "con carácter general, las Administraciones públicas no son responsables de los daños ocasionados por las especies de fauna silvestre, excepto en los supuestos establecidos en la normativa sectorial específica."
+  }
+ },
+ {
+  "id": "e3-016",
+  "pregunta": "Según la Ley 2/1991 de Protección de la Fauna y Flora Silvestres de la Comunidad de Madrid, salvo autorización expresa, queda prohibido establecer puestos fijos de observación o caza fotográfica de especies en peligro de extinción o sensibles a la alteración de su hábitat a menos de:",
+  "opciones": [
+   "100 metros de sus puntos de cría",
+   "250 metros de sus puntos de cría, lugares de concentración migratoria o invernada",
+   "500 metros de sus puntos de cría",
+   "1.000 metros de sus puntos de cría, lugares de concentración migratoria o invernada"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 14.3 Ley 2/1991: 250 metros.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Ley_2_1991_ProteccFaunaYFlora_Silvestres_Madrid.txt",
+   "cita": "el establecimiento a tales fines de puestos fijos a menos de 250 metros de sus puntos de cría, lugares de concentración migratoria o invernada."
+  }
+ },
+ {
+  "id": "e3-017",
+  "pregunta": "Según el Decreto 18/1992 (Catálogo Regional de Especies Amenazadas de Madrid), además de la Agencia de Medio Ambiente, el procedimiento de catalogación o cambio de categoría puede iniciarse:",
+  "opciones": [
+   "Solo a instancia de la Asamblea de Madrid",
+   "A instancia de las Corporaciones Locales o de particulares, debidamente motivada y avalada por persona física o jurídica de reconocido prestigio científico o cultural",
+   "A instancia de cualquier ciudadano, sin necesidad de motivación",
+   "Únicamente a propuesta del Ministerio competente en medio ambiente"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 3 Decreto 18/1992.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/Decreto 18:1992 - Catalogo Sp Amenazadas Madrid.txt",
+   "cita": "Asimismo, dicho procedimiento podrá iniciarse a instancia de las Corporaciones Locales o de particulares, debidamente motivada y avalada por persona física o jurídica de reconocido prestigio científico o cultural."
+  }
+ },
+ {
+  "id": "e3-018",
+  "pregunta": "Según la Ley 7/2013 del Parque Nacional de la Sierra de Guadarrama, respecto a la actividad forestal comercial presente en el Parque en el momento de su declaración, las ordenaciones vigentes serán revisadas en el plazo de:",
+  "opciones": [
+   "Dos años",
+   "Tres años",
+   "Cuatro años",
+   "Diez años"
+  ],
+  "correcta": 2,
+  "explicacion": "Ley 7/2013: revisión en cuatro años, poniéndose fin a la actividad forestal comercial a partir de ese momento.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Ley 7:2013 - Parque Nacional Guadarrama.txt",
+   "cita": "las ordenaciones vigentes serán revisadas en el plazo de cuatro años al objeto de la adecuación del actual modelo de gestión"
+  }
+ },
+ {
+  "id": "e3-019",
+  "pregunta": "Según el Decreto 68/1994 de El Regajal-Mar de Ontígola, entre las disposiciones que deben incluir las normas urbanísticas para los desarrollos próximos a la Reserva figura:",
+  "opciones": [
+   "La prohibición del uso de lámparas de vapor de mercurio",
+   "La obligación de soterrar todos los tendidos eléctricos",
+   "La prohibición de construir a menos de 1.000 metros de la Reserva",
+   "La obligación de instalar pantallas acústicas"
+  ],
+  "correcta": 0,
+  "explicacion": "Decreto 68/1994, apartado 9.1: prohibido el uso de lámparas de vapor de mercurio.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Decreto 68:1994 El Regajal-Mar de Ontigola.txt",
+   "cita": "Queda prohibido el uso de lámparas de vapor de mercurio en los ámbitos que se definan en los instrumentos de planeamiento"
+  }
+ },
+ {
+  "id": "e3-020",
+  "pregunta": "Según la Ley 20/1999, el Parque Regional del curso medio del río Guadarrama y su entorno tiene una superficie aproximada de:",
+  "opciones": [
+   "21.714 hectáreas",
+   "22.116 hectáreas",
+   "33.960 hectáreas",
+   "46.728 hectáreas"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 20/1999: 22.116 ha aproximadas.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Ley 20:1999 - Parque Regional curso medio Guadarrama.txt",
+   "cita": "con una superficie aproximada de 22.116 hectáreas cuya representación gráfica es la que se recoge en el Anexo"
+  }
+ },
+ {
+  "id": "e3-021",
+  "pregunta": "Según el Real Decreto 139/2011, en el procedimiento de inclusión de una especie a solicitud de un particular, si transcurre el plazo máximo de seis meses sin notificarse resolución expresa:",
+  "opciones": [
+   "Se entenderá estimada la petición",
+   "Se entenderá desestimada la petición",
+   "Se amplía automáticamente el plazo tres meses más",
+   "Se remite el expediente a la Comisión Estatal para su resolución"
+  ],
+  "correcta": 1,
+  "explicacion": "RD 139/2011: silencio desestimatorio a los seis meses.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/RD_139_2011_ListadoEspecies_RegProtEspecial_Catalogo.txt",
+   "cita": "Transcurrido dicho plazo sin haberse notificado resolución expresa, se entenderá desestimada su petición."
+  }
+ },
+ {
+  "id": "e3-022",
+  "pregunta": "Según la Resolución de 1991 que regula los reportajes fotográficos y de cine en el Hayedo de Montejo, los reportajes fotográficos y actividades profesionales de cinematografía y vídeo en el interior del hayedo:",
+  "opciones": [
+   "Están permitidos con autorización del Ayuntamiento",
+   "Están prohibidos, salvo las tomas durante el recorrido previa concertación en el Centro de Recursos y sin dificultar la visita guiada",
+   "Están permitidos sin restricciones fuera de la época de reproducción",
+   "Están prohibidos sin excepción alguna"
+  ],
+  "correcta": 1,
+  "explicacion": "Resolución de 1991, apartados primero y segundo.",
+  "fuente": {
+   "documento": "OPO/Biodiversidad/ENP CAM/Resolución  ('91) - Regulación reportajes fotográficos y cine en Hayedo Montejo.txt",
+   "cita": "La limitación anterior no afectará a las tomas que se realicen durante el recorrido, previa concertación en el Centro de Recursos existente en el propio municipio de Montejo de la Sierra"
+  }
+ },
+ {
+  "id": "e3-023",
+  "pregunta": "Según la Ley de Caza y Pesca de la Comunidad de Madrid, queda prohibido el empleo y la tenencia de armas de caza listas para su uso en una franja alrededor de zonas con presencia de rebaños y personas, así como de eventos organizados, excursiones o pruebas deportivas, de:",
+  "opciones": [
+   "Cincuenta metros",
+   "Cien metros",
+   "Ciento cincuenta metros",
+   "Doscientos cincuenta metros"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 41.1.d): cien metros. Autopistas, carreteras y vías férreas, y casas aisladas, parques y caminos públicos: cincuenta metros; núcleos de población: ciento cincuenta.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "d) Una franja de cien metros de zonas con presencia de rebaños y personas, así como de eventos organizados, excursiones, pruebas deportivas"
+  }
+ },
+ {
+  "id": "e3-024",
+  "pregunta": "Según la Ley de Caza y Pesca de la Comunidad de Madrid, se considera pescador ribereño:",
+  "opciones": [
+   "El que tenga una finca colindante con el escenario de pesca",
+   "El nacido o empadronado en alguno de los municipios por los que discurra o linde el escenario de pesca",
+   "El miembro de una entidad colaboradora de pesca",
+   "El empadronado en cualquier municipio de la Comunidad de Madrid"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 102 b). Las categorías (entidad colaboradora, ribereño, transeúnte) no son excluyentes.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "b) Ribereño: aquel nacido o empadronado en alguno de los municipios por los que discurra o linde el escenario de pesca."
+  }
+ },
+ {
+  "id": "e3-025",
+  "pregunta": "Según la Ley de Caza y Pesca de la Comunidad de Madrid, en los caminos de uso público y vías pecuarias:",
+  "opciones": [
+   "Está prohibido en todo caso portar armas de caza",
+   "Se permite portar armas abiertas o con el seguro puesto, en períodos, días u horarios hábiles, siempre que no haya a la vista personas o vehículos ajenos a la cacería",
+   "Se permite portar armas cargadas si se camina en dirección contraria a la cacería",
+   "Solo se permite portar armas enfundadas y descargadas fuera de los periodos hábiles"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 41.3.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley Pescaza CAM.txt",
+   "cita": "En los caminos de uso público y vías pecuarias, se permite portar armas abiertas o con el seguro puesto, en períodos, días u horarios hábiles, siempre que no se encuentren a la vista personas o vehículos ajenos a la cacería."
+  }
+ },
+ {
+  "id": "e3-026",
+  "pregunta": "Según la Orden de vedas de caza de la Comunidad de Madrid para la temporada 2026/2027, el cupo máximo de becadas es de:",
+  "opciones": [
+   "2 becadas por cazador y día",
+   "3 becadas por cazador y día",
+   "5 becadas por cazador y día",
+   "8 becadas por cazador y día"
+  ],
+  "correcta": 1,
+  "explicacion": "Orden 2511/2026: solo al salto o a rabo y en mano, con cupo de 3 becadas por cazador y día (el cupo de 8 es el de codorniz).",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Orden 2511:2026 - Vedas Caza 26:27.txt",
+   "cita": "estableciéndose un cupo máximo de 3 becadas por cazador y día."
+  }
+ },
+ {
+  "id": "e3-027",
+  "pregunta": "Según la Orden de vedas de pesca de la Comunidad de Madrid para 2026/2027, la dimensión mínima de captura se mide como la longitud del pez comprendida entre:",
+  "opciones": [
+   "El extremo anterior de la cabeza y el extremo de la aleta caudal plegada",
+   "El opérculo y el punto medio de la aleta caudal",
+   "El extremo anterior de la cabeza y el punto medio de la aleta caudal o cola extendida",
+   "El extremo anterior de la cabeza y el inicio de la aleta caudal"
+  ],
+  "correcta": 2,
+  "explicacion": "Orden 815/2026.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Orden 815:2026 - Vedas Pesca 26:27.txt",
+   "cita": "la longitud del pez expresada en centímetros, comprendida entre el extremo anterior de la cabeza y el punto medio de la aleta caudal o cola extendida."
+  }
+ },
+ {
+  "id": "e3-028",
+  "pregunta": "Según la regulación de ayudas de 2025 por daños de lobos, perros asilvestrados y buitres en la Comunidad de Madrid, los importes máximos por siniestro para la franquicia de las pólizas de seguro son:",
+  "opciones": [
+   "625 euros para ovino y caprino y 1.250 euros para bovino y equino",
+   "500 euros para ovino y caprino y 1.000 euros para bovino y equino",
+   "1.250 euros para ovino y caprino y 625 euros para bovino y equino",
+   "625 euros para cualquier especie de ganado"
+  ],
+  "correcta": 0,
+  "explicacion": "Artículo 9.1 de la regulación de 2025.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ayudas -2025- Lobos, buitres y perros asilvestrados.txt",
+   "cita": "a) 625 euros para ganado ovino y caprino. b) 1.250 euros para ganado bovino y equino."
+  }
+ },
+ {
+  "id": "e3-029",
+  "pregunta": "Según la Ley 1/1970, de Caza, el derecho a cazar corresponde a toda persona que esté en posesión de la licencia de caza y cumpla los demás requisitos legales, siempre que sea mayor de:",
+  "opciones": [
+   "Doce años",
+   "Catorce años",
+   "Dieciséis años",
+   "Dieciocho años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 3.1 Ley 1/1970: mayor de catorce años.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley 1-1970, de 4 de abril, de caza.txt",
+   "cita": "El derecho a cazar corresponde a toda persona mayor de catorce años que esté en posesión de la licencia de caza"
+  }
+ },
+ {
+  "id": "e3-030",
+  "pregunta": "Según la Ley de Pesca Fluvial de 1942, en la pesca con caña con ova se respetará entre los pescadores una distancia de:",
+  "opciones": [
+   "Diez metros",
+   "Treinta metros",
+   "Cincuenta metros",
+   "Cien metros"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 15 Ley de 20 de febrero de 1942: 30 m con ova; 10 m con aparejos flotantes de fondo, mosca artificial y lanzado; 100 m entre redes.",
+  "fuente": {
+   "documento": "OPO/Pes-Caza/Ley 20 feb. 1942 - Pesca fluvial.txt",
+   "cita": "Cuando se trate de la pesca con caña se respetará entre los pescadores una distancia de 30 metros para la realizada con ova, y de diez para la de aparejos flotantes de fondo"
+  }
+ },
+ {
+  "id": "e3-031",
+  "pregunta": "Según el Plan INFOMA (Decreto 59/2017), en la situación operativa 0 la dirección del plan especial corresponde, por delegación del Consejero competente en materia de Protección Ciudadana, a:",
+  "opciones": [
+   "El Director General competente en materia de protección ciudadana",
+   "El Jefe del Cuerpo de Bomberos de la Comunidad de Madrid",
+   "El Jefe del Cuerpo de Agentes Forestales",
+   "El Delegado del Gobierno en la Comunidad de Madrid"
+  ],
+  "correcta": 1,
+  "explicacion": "INFOMA: situación 0, Jefe del Cuerpo de Bomberos; situación 1, Director General; situación 2, el propio Consejero.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20170606 Decreto 59-2017 INFOMA.txt",
+   "cita": "En la situación 0 la dirección del plan especial corresponderá, por delegación del Consejero competente en materia de Protección Ciudadana, al Jefe del Cuerpo de Bomberos de la Comunidad de Madrid"
+  }
+ },
+ {
+  "id": "e3-032",
+  "pregunta": "Según el Plan INFOMA, en el caso de líneas eléctricas de baja tensión deberán eliminarse todas las ramas o vegetación existentes a menos de una distancia de los conductores de:",
+  "opciones": [
+   "Un metro",
+   "Dos metros",
+   "Cinco metros",
+   "Diez metros"
+  ],
+  "correcta": 1,
+  "explicacion": "INFOMA: dos metros, o mayor si fuera necesario para impedir el contacto por el viento.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20170606 Decreto 59-2017 INFOMA.txt",
+   "cita": "En el caso de líneas eléctricas de baja tensión, deberán eliminarse todas las ramas o vegetación existente a menos de dos metros de distancia de los conductores"
+  }
+ },
+ {
+  "id": "e3-033",
+  "pregunta": "Según el Plan INFOMA, el incendio que en su evolución más desfavorable se prevé que amenace seriamente a núcleos de población o infraestructuras de especial importancia, o cuyo daño forestal esperable es muy importante, tiene un Índice de Gravedad Potencial:",
+  "opciones": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "correcta": 2,
+  "explicacion": "INFOMA: IGP 2.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20170606 Decreto 59-2017 INFOMA.txt",
+   "cita": "Índice de Gravedad Potencial 2: Referido a aquel incendio que, en su evolución más desfavorable, se prevé que amenace seriamente a núcleos de población o infraestructuras de especial importancia"
+  }
+ },
+ {
+  "id": "e3-034",
+  "pregunta": "Según el Real Decreto 893/2013 (Directriz básica de protección civil por incendios forestales), las nuevas edificaciones en áreas de interfaz urbano-forestal colindantes con el monte deberán asegurar una faja perimetral de protección de:",
+  "opciones": [
+   "10 metros de ancho, y siempre que sea posible cuatro veces la altura de la vegetación dominante",
+   "30 metros de ancho, y siempre que sea posible al menos ocho veces la altura de la vegetación dominante",
+   "50 metros de ancho en todo caso",
+   "15 metros de ancho, libre de vegetación seca"
+  ],
+  "correcta": 1,
+  "explicacion": "RD 893/2013, especificaciones de los planes de autoprotección en interfaz urbano-forestal. Los 10 m son para campings.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20131115 Real Decreto 893-2013 Directriz BÃ¡sica PC por IIFF.txt",
+   "cita": "asegurar la existencia de una faja perimetral de protección de 30 metros de ancho dentro de la misma propiedad, alrededor de la urbanización, edificación o instalación, medida desde el límite exterior de la edificación o instalación destinada a las personas, libre de vegetación seca y con la masa arbórea aclarada. Siempre que sea posible, esta faja deberá ser de, al menos, ocho veces la altura de la vegetación dominante."
+  }
+ },
+ {
+  "id": "e3-035",
+  "pregunta": "Según el Real Decreto 893/2013, en campings y lugares de acampada se deberá contar con un extintor de polvo antibrasa de seis kilogramos:",
+  "opciones": [
+   "Por cada diez parcelas, sin que ninguna diste más de quince metros de un extintor",
+   "Por cada veinticinco parcelas, sin que ninguna diste más de treinta metros de un extintor",
+   "Por cada cincuenta parcelas, sin que ninguna diste más de cincuenta metros de un extintor",
+   "Por cada cien parcelas"
+  ],
+  "correcta": 1,
+  "explicacion": "RD 893/2013: uno por cada 25 parcelas; ninguna parcela a más de 30 m de un extintor.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20131115 Real Decreto 893-2013 Directriz BÃ¡sica PC por IIFF.txt",
+   "cita": "Contar con un extintor convenientemente identificado de polvo antibrasa de seis kilogramos de capacidad por cada veinticinco parcelas, convenientemente señalizado y ubicado en sitios visibles y de fácil acceso, de forma que ninguna parcela diste más de treinta metros de un extintor."
+  }
+ },
+ {
+  "id": "e3-036",
+  "pregunta": "El Real Decreto-ley 11/2005, de medidas urgentes en materia de incendios forestales, se aplica en su capítulo de ayudas a las personas y bienes afectados por el incendio acaecido:",
+  "opciones": [
+   "Entre los días 16 y 20 de julio de 2005 en la provincia de Guadalajara",
+   "Entre los días 1 y 5 de agosto de 2005 en la provincia de Cuenca",
+   "En julio de 2005 en la Comunidad de Madrid",
+   "Entre los días 16 y 20 de agosto de 2005 en la provincia de Ourense"
+  ],
+  "correcta": 0,
+  "explicacion": "RDL 11/2005, art. 1.1; el Gobierno puede extender las medidas a otros incendios de características similares.",
+  "fuente": {
+   "documento": "OPO/IIFF/T13 - 20050722 REAL DECRETO-LEY 11-2005 Medidas Urgentes en Materia IIFF.txt",
+   "cita": "acaecido entre los días 16 y 20 de julio de 2005 en la provincia de Guadalajara."
+  }
+ },
+ {
+  "id": "e3-037",
+  "pregunta": "Según el Manual básico del bombero forestal, los combustibles aéreos son los que se encuentran:",
+  "opciones": [
+   "Por encima de 0,5 m de altura",
+   "Por encima de 1,5 m de altura",
+   "Por encima de 3 m de altura",
+   "En las copas de los árboles, exclusivamente"
+  ],
+  "correcta": 1,
+  "explicacion": "Manual básico BF: aéreos por encima de 1,5 m; superficiales por debajo de 1,5 m; subterráneos: raíces, turba, etc.",
+  "fuente": {
+   "documento": "OPO/IIFF/Manual-básico-BF-definitivo.txt",
+   "cita": "Aéreos: Son los que se encuentran por encima de 1'5 m de altura, como árboles, arbustos, etc."
+  }
+ },
+ {
+  "id": "e3-038",
+  "pregunta": "Tras la reforma de la Ley 1/2002 por la Ley 11/2022, las categorías del Cuerpo de Agentes Forestales de la Comunidad de Madrid se clasifican así:",
+  "opciones": [
+   "Técnico Superior en A1, Técnico Medio en A2 y Agente Forestal en C1",
+   "Técnico Superior en A2, Técnico Medio en C1 y Agente Forestal en C2",
+   "Técnico Superior en A1, Técnico Medio en C1 y Agente Forestal en C2",
+   "Técnico Superior y Técnico Medio en A2, y Agente Forestal en C1"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 3 Ley 1/2002 (redacción de la Ley 11/2022): Escala Técnica (A1 y A2) y Escala Operativa (C1).",
+  "fuente": {
+   "documento": "OPO/AAFF/T01 - 20221221 Actualización tema 1 a la luz de la Ley Omnibus.txt",
+   "cita": "La categoría de Técnico Superior Agente Forestal se clasifica en el Grupo A, Subgrupo A1, y la categoría de Técnico Medio Agente Forestal se clasifica en el Grupo A, subgrupo A2."
+  }
+ },
+ {
+  "id": "e3-039",
+  "pregunta": "Según la Ley 4/2024, básica de agentes forestales y medioambientales, la consideración de agentes de la autoridad a efectos de su protección jurídico-penal frente a agresiones, amenazas o atentados:",
+  "opciones": [
+   "Solo se aplica cuando están de servicio y uniformados",
+   "Se extiende a hechos producidos aun estando fuera de servicio, si se realizan como consecuencia o motivación de su ámbito profesional",
+   "Solo se aplica en presencia de Fuerzas y Cuerpos de Seguridad",
+   "No existe; tienen la consideración de particulares a efectos penales"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 3.1 Ley 4/2024.",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 4:2004.txt",
+   "cita": "aun cuando estuvieran fuera de servicio en el momento de producirse, si los hechos se realizan como consecuencia o motivación de su ámbito profesional."
+  }
+ },
+ {
+  "id": "e3-040",
+  "pregunta": "Según el Real Decreto 919/2025, la edad de jubilación de los agentes forestales y medioambientales se reducirá en un periodo equivalente al que resulte de aplicar a los años completos efectivamente trabajados el coeficiente reductor de:",
+  "opciones": [
+   "0,10",
+   "0,15",
+   "0,20",
+   "0,25"
+  ],
+  "correcta": 2,
+  "explicacion": "RD 919/2025, art. 2 (según su parte expositiva): coeficiente 0,20.",
+  "fuente": {
+   "documento": "OPO/AAFF/RD 919:2025 - Coeficientes reductores.txt",
+   "cita": "periodo equivalente al que resulte de aplicar a los años completos efectivamente trabajados el coeficiente reductor del 0,20."
+  }
+ },
+ {
+  "id": "e3-041",
+  "pregunta": "Según la Ley 1/2002, entre las funciones del Cuerpo de Agentes Forestales en el medio urbano figura la policía, custodia y vigilancia de:",
+  "opciones": [
+   "Todos los animales domésticos",
+   "Las especies de fauna autóctona y árboles catalogados como singulares",
+   "Los parques y jardines municipales",
+   "Las especies exóticas invasoras exclusivamente"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 5.1.d) Ley 1/2002. En el medio agrícola: flora y fauna silvestre y árboles singulares (letra c).",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 1:2002 - CreacCuerpoAgentesForestales.txt",
+   "cita": "d) Policía, custodia y vigilancia de las especies de fauna autóctona y árboles catalogados como singulares en el medio urbano."
+  }
+ },
+ {
+  "id": "e3-042",
+  "pregunta": "Según la Orden de 6 de abril de 2010 sobre uniformidad de los Agentes Forestales, ¿cuál de los siguientes NO figura entre los colores institucionales del Cuerpo enumerados en su artículo 11.1?",
+  "opciones": [
+   "Verde oscuro «Olive Night» Pantone 19-0515 TC",
+   "Verde claro «Gray Green» Pantone 16-0518 TC",
+   "Naranja «Red Orange» Pantone 17-1464 TC",
+   "Azul marino Pantone 19-4024 TC"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 11.1: verde oscuro, verde claro, blanco, negro y naranja. También se admiten los colores de la imagen corporativa de la Comunidad de Madrid (art. 11.2).",
+  "fuente": {
+   "documento": "OPO/AAFF/T01 - 20100406 Orden 6-04-2010 Uniformidad AAFF.txt",
+   "cita": "los colores que se podrán utilizar en los distintos elementos del Cuerpo de Agentes Forestales serán el verde oscuro \"Olive Night\" Pantone 19-0515 TC, el verde claro \"Gray Green\" Pantone 16-0518 TC, el blanco, el negro y el naranja \"Red Orange\" Pantone 17-1464 TC."
+  }
+ },
+ {
+  "id": "e3-043",
+  "pregunta": "Según la Ley 1/2002, el Reglamento del Cuerpo de Agentes Forestales se elaborará en el plazo de:",
+  "opciones": [
+   "3 meses tras la publicación de la Ley",
+   "6 meses tras la publicación de la Ley",
+   "1 año tras la publicación de la Ley",
+   "2 años tras la publicación de la Ley"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 1/2002, disposición final: 6 meses.",
+  "fuente": {
+   "documento": "OPO/AAFF/Ley 1:2002 - CreacCuerpoAgentesForestales.txt",
+   "cita": "Se elaborará un Reglamento del Cuerpo de Agentes Forestales en el plazo de 6 meses tras la publicación"
+  }
+ },
+ {
+  "id": "e3-044",
+  "pregunta": "Según la Ley 39/2015, el plazo máximo para dictar y notificar la resolución del recurso de alzada es de:",
+  "opciones": [
+   "Un mes",
+   "Dos meses",
+   "Tres meses",
+   "Seis meses"
+  ],
+  "correcta": 2,
+  "explicacion": "Ley 39/2015: alzada, tres meses para resolver (el de reposición, un mes).",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-2015-10565-Ley 39.txt",
+   "cita": "2. El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido"
+  }
+ },
+ {
+  "id": "e3-045",
+  "pregunta": "Según el Estatuto Básico del Empleado Público, las infracciones disciplinarias graves prescriben a los:",
+  "opciones": [
+   "Seis meses",
+   "Un año",
+   "Dos años",
+   "Tres años"
+  ],
+  "correcta": 2,
+  "explicacion": "EBEP: muy graves, tres años; graves, dos años; leves, seis meses.",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-A-2015-11719-EBEP.txt",
+   "cita": "1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses"
+  }
+ },
+ {
+  "id": "e3-046",
+  "pregunta": "Según la Ley 40/2015, para la válida constitución de un órgano colegiado a efectos de sesiones, deliberaciones y acuerdos se requiere la asistencia, presencial o a distancia, de:",
+  "opciones": [
+   "La mayoría absoluta de sus miembros, sin necesidad del Secretario",
+   "El Presidente y el Secretario, o quienes les suplan, y la mitad, al menos, de sus miembros",
+   "Dos tercios de sus miembros",
+   "El Presidente y un tercio de sus miembros"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 40/2015, régimen de los órganos colegiados.",
+  "fuente": {
+   "documento": "OPO/Administración/LEY_40_2015_RJSP.txt",
+   "cita": "se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros."
+  }
+ },
+ {
+  "id": "e3-047",
+  "pregunta": "Según la Constitución Española, de los 12 miembros del Tribunal Constitucional nombrados por el Rey:",
+  "opciones": [
+   "Cuatro a propuesta del Congreso, cuatro del Senado, dos del Gobierno y dos del Consejo General del Poder Judicial",
+   "Seis a propuesta de las Cortes, tres del Gobierno y tres del CGPJ",
+   "Cuatro a propuesta del Congreso, cuatro del Senado y cuatro del CGPJ",
+   "Cuatro a propuesta del Congreso, dos del Senado, tres del Gobierno y tres del CGPJ"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 159.1 CE; Congreso y Senado por mayoría de tres quintos.",
+  "fuente": {
+   "documento": "OPO/Administración/Constitución.txt",
+   "cita": "cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial."
+  }
+ },
+ {
+  "id": "e3-048",
+  "pregunta": "Según la Ley 1/1986, de la Función Pública de la Comunidad de Madrid, el grado personal se adquiere por haber desempeñado uno o más puestos del nivel correspondiente durante:",
+  "opciones": [
+   "Un año continuado",
+   "Dos años consecutivos o tres con interrupción",
+   "Tres años consecutivos o cinco con interrupción",
+   "Dos años, consecutivos o no"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 1/1986: dos años consecutivos o tres con interrupción.",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-A-1986-23734-Ley 1:86.txt",
+   "cita": "El grado se adquiere por haber desempeñado durante dos años consecutivos o tres con interrupción, uno o más puestos de trabajo del nivel correspondiente."
+  }
+ },
+ {
+  "id": "e3-049",
+  "pregunta": "Según la Ley 39/2015, en el trámite de audiencia los interesados podrán alegar y presentar documentos y justificaciones en un plazo:",
+  "opciones": [
+   "No inferior a cinco días ni superior a diez",
+   "No inferior a diez días ni superior a quince",
+   "De veinte días",
+   "No inferior a quince días ni superior a treinta"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 39/2015, trámite de audiencia.",
+  "fuente": {
+   "documento": "OPO/Administración/BOE-2015-10565-Ley 39.txt",
+   "cita": "2. Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar"
+  }
+ },
+ {
+  "id": "e3-050",
+  "pregunta": "Según el texto refundido de la Ley de Aguas, en un predio se podrán utilizar aguas de manantiales situados en su interior y aprovechar aguas subterráneas, en las condiciones reglamentarias, cuando el volumen total anual no sobrepase:",
+  "opciones": [
+   "3.000 metros cúbicos",
+   "5.000 metros cúbicos",
+   "7.000 metros cúbicos",
+   "10.000 metros cúbicos"
+  ],
+  "correcta": 2,
+  "explicacion": "TRLA: 7.000 m³ anuales; en acuíferos sobreexplotados o en riesgo no pueden hacerse nuevas obras sin autorización.",
+  "fuente": {
+   "documento": "OPO/Aguas/RDL 1:2001 - Ley de Aguas.txt",
+   "cita": "aprovechar en él aguas subterráneas, cuando el volumen total anual no sobrepase los 7.000 metros cúbicos."
+  }
+ },
+ {
+  "id": "e3-051",
+  "pregunta": "Según la Ley 7/1990, de Protección de Embalses y Zonas Húmedas de la Comunidad de Madrid, los terrenos que forman un humedal catalogado y su zona periférica quedan clasificados como suelo no urbanizable de protección especial. Esa zona periférica es de:",
+  "opciones": [
+   "25 metros desde el límite del máximo nivel normal de sus aguas",
+   "50 metros desde el límite del máximo nivel normal de sus aguas",
+   "100 metros desde la orilla en estiaje",
+   "200 metros desde el límite del máximo nivel normal"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 7/1990: 50 metros medidos desde el máximo nivel normal de las aguas.",
+  "fuente": {
+   "documento": "OPO/Aguas/Ley 7:1990 - Embalses y Zonas Húmedas.txt",
+   "cita": "b) Los terrenos que forman un humedal y su zona periférica de 50 metros, medidos a partir del límite del máximo nivel normal de sus aguas, quedan clasificados, a todos los efectos, como suelo no urbanizable objeto de protección especial."
+  }
+ },
+ {
+  "id": "e3-052",
+  "pregunta": "Según el texto refundido de la Ley de Aguas, las infracciones muy graves se sancionan con multa de:",
+  "opciones": [
+   "50.000,01 a 500.000,00 euros",
+   "500.000,01 a 1.000.000,00 euros",
+   "100.000,01 a 1.000.000,00 euros",
+   "1.000.000,01 a 2.000.000,00 euros"
+  ],
+  "correcta": 1,
+  "explicacion": "TRLA: leves hasta 10.000; menos graves 10.000,01-50.000; graves 50.000,01-500.000; muy graves 500.000,01-1.000.000 euros.",
+  "fuente": {
+   "documento": "OPO/Aguas/RDL 1:2001 - Ley de Aguas.txt",
+   "cita": "Infracciones muy graves, multa de 500.000,01 a 1.000.000,00 euros."
+  }
+ },
+ {
+  "id": "e3-053",
+  "pregunta": "Según el Plan de Ordenación del embalse de El Atazar, las embarcaciones de los clubes náuticos y áreas recreativas náuticas autorizadas por el Canal de Isabel II:",
+  "opciones": [
+   "Pueden navegar a motor libremente",
+   "Nunca podrán ser propulsadas a motor, salvo autorización expresa del Canal de Isabel II",
+   "Solo pueden navegar a motor en época estival",
+   "Requieren autorización del Ayuntamiento para navegar"
+  ],
+  "correcta": 1,
+  "explicacion": "Plan de Ordenación de El Atazar.",
+  "fuente": {
+   "documento": "OPO/Aguas/Plan Ordenación - Atazar.txt",
+   "cita": "que nunca podrán ser propulsadas a motor salvo autorización expresa de dicha entidad."
+  }
+ },
+ {
+  "id": "e3-054",
+  "pregunta": "Según el texto refundido de la Ley de Aguas, a falta de orden de preferencia en el Plan Hidrológico, ocupa el primer lugar:",
+  "opciones": [
+   "Los regadíos y usos agrarios",
+   "El abastecimiento de población, incluidas las industrias de poco consumo de agua situadas en los núcleos y conectadas a la red municipal",
+   "Los usos industriales para producción de energía eléctrica",
+   "El almacenamiento hidráulico de energía"
+  ],
+  "correcta": 1,
+  "explicacion": "TRLA: 1.º abastecimiento; 2.º regadíos y usos agrarios; 3.º almacenamiento hidráulico de energía; 4.º producción de energía eléctrica...",
+  "fuente": {
+   "documento": "OPO/Aguas/RDL 1:2001 - Ley de Aguas.txt",
+   "cita": "1.º Abastecimiento de población, incluyendo en su dotación la necesaria para industrias de poco consumo de agua situadas en los núcleos de población y conectadas a la red municipal."
+  }
+ },
+ {
+  "id": "e3-055",
+  "pregunta": "Según la Ley 7/2022, de residuos y suelos contaminados, la duración máxima del almacenamiento de residuos no peligrosos en el lugar de producción será:",
+  "opciones": [
+   "Inferior a un año si se destinan a valorización y a dos años si se destinan a eliminación",
+   "Inferior a dos años si se destinan a valorización y a un año si se destinan a eliminación",
+   "De seis meses en ambos casos",
+   "Inferior a tres años si se destinan a valorización y a un año si se destinan a eliminación"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 7/2022: no peligrosos, <2 años valorización y <1 año eliminación; peligrosos, seis meses (ampliable otros seis).",
+  "fuente": {
+   "documento": "OPO/Residuos/Ley 7:2022 - Residuos.txt",
+   "cita": "La duración máxima del almacenamiento de los residuos no peligrosos en el lugar de producción será inferior a dos años cuando se destinen a valorización y a un año cuando se destinen a eliminación."
+  }
+ },
+ {
+  "id": "e3-056",
+  "pregunta": "Según el Real Decreto 50/2018 (subproductos de la actividad cinegética), los puntos para alimentación de necrófagas dentro del acotado deberán situarse a una distancia de los aerogeneradores superior a:",
+  "opciones": [
+   "1.000 metros",
+   "2.000 metros",
+   "4.000 metros",
+   "13.000 metros"
+  ],
+  "correcta": 2,
+  "explicacion": "RD 50/2018: aerogeneradores y aeródromos no de uso público, >4.000 m; aeropuertos de uso público, >13.000 m; tendidos eléctricos, >1.000 m.",
+  "fuente": {
+   "documento": "OPO/Residuos/T22 - 20180202 RD 50-2018  residuos caza.txt",
+   "cita": "8.º A una distancia superior a los 4.000 metros de aerogeneradores."
+  }
+ },
+ {
+  "id": "e3-057",
+  "pregunta": "Según la Ley 7/2022, de residuos y suelos contaminados, las infracciones graves prescriben a los:",
+  "opciones": [
+   "Dos años",
+   "Tres años",
+   "Cuatro años",
+   "Cinco años"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 7/2022: leves al año, graves a los tres años, muy graves a los cinco.",
+  "fuente": {
+   "documento": "OPO/Residuos/Ley 7:2022 - Residuos.txt",
+   "cita": "1. Las infracciones leves prescribirán al año, las graves a los tres años y las muy graves a los cinco años."
+  }
+ },
+ {
+  "id": "e3-058",
+  "pregunta": "Según la Orden 2726/2009 de gestión de RCD de la Comunidad de Madrid, la cuantía mínima de la fianza de las instalaciones de gestión autorizadas es de:",
+  "opciones": [
+   "1.500 euros",
+   "3.000 euros",
+   "6.000 euros",
+   "30.000 euros"
+  ],
+  "correcta": 1,
+  "explicacion": "Orden 2726/2009: F = 3.000 + 170·√C, siendo C la capacidad anual en toneladas.",
+  "fuente": {
+   "documento": "OPO/Residuos/T22 - 20090716 Orden 2726-2009 GESTION RCD.txt",
+   "cita": "La cuantía mínima de dicha fianza será de 3.000 euros, incrementándose en función de la capacidad de la instalación"
+  }
+ },
+ {
+  "id": "e3-059",
+  "pregunta": "Según el Real Decreto-ley 11/1995 sobre tratamiento de aguas residuales urbanas, las aglomeraciones de más de 10.000 habitantes-equivalentes que viertan en una zona sensible debían disponer de sistemas colectores antes del:",
+  "opciones": [
+   "1 de enero de 1999",
+   "1 de enero de 2001",
+   "1 de enero de 2006",
+   "31 de diciembre de 2005"
+  ],
+  "correcta": 0,
+  "explicacion": "RDL 11/1995, art. 4: >15.000 h-e, antes de 2001; 2.000-15.000 h-e, antes de 2006; >10.000 h-e en zona sensible, antes de 1999.",
+  "fuente": {
+   "documento": "OPO/Residuos/T22 - 19951228 RDL 11-1995 normativa aguas residuales.txt",
+   "cita": "c) Antes del 1 de enero del año 1999, aquellas que cuenten con más de 10.000 habitantes-equivalentes y viertan en una «zona sensible»"
+  }
+ },
+ {
+  "id": "e3-060",
+  "pregunta": "Según la Ley 3/1995, de Vías Pecuarias, las acciones civiles sobre derechos relativos a terrenos incluidos en el dominio público deslindado prescriben a los:",
+  "opciones": [
+   "Tres años desde la aprobación del deslinde",
+   "Cinco años desde la aprobación del deslinde",
+   "Diez años desde la clasificación",
+   "Quince años desde el amojonamiento"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 3/1995: cinco años desde la aprobación del deslinde.",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19950323 LEY 3-1995 ESTATAL VIAS PECUARIAS.txt",
+   "cita": "público deslindado prescriben a los cinco años, computados a partir de la fecha de la aprobación del deslinde."
+  }
+ },
+ {
+  "id": "e3-061",
+  "pregunta": "Según la exposición de motivos de la Ley 8/1998, de Vías Pecuarias de la Comunidad de Madrid, las vías pecuarias de la región totalizan aproximadamente:",
+  "opciones": [
+   "1.500 kilómetros y 5.000 hectáreas",
+   "4.000 kilómetros y más de 13.000 hectáreas",
+   "6.800 kilómetros y más de 20.000 hectáreas",
+   "4.000 kilómetros y 4.135 hectáreas"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 8/1998, preámbulo.",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19980615 LEY 8-1998 DE VIAS PECUARIAS DE LA COMUNIDAD DEMADRID.txt",
+   "cita": "totalizan 4.000 kilómetros de longitud y más de 13.000 hectáreas de superficie."
+  }
+ },
+ {
+  "id": "e3-062",
+  "pregunta": "Según la Ley 8/1998 de Vías Pecuarias de la Comunidad de Madrid, las ocupaciones de carácter temporal que se autoricen:",
+  "opciones": [
+   "No podrán superar los cinco años y requieren información pública de quince días",
+   "No podrán superar los diez años, sin perjuicio de su renovación, y se someten a información pública de un mes con informe de los Ayuntamientos",
+   "No podrán superar los setenta y cinco años",
+   "Son indefinidas mientras no alteren el tránsito ganadero"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 8/1998, ocupaciones temporales.",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 19980615 LEY 8-1998 DE VIAS PECUARIAS DE LA COMUNIDAD DEMADRID.txt",
+   "cita": "dichas ocupaciones no podrán tener una duración superior a los diez años, sin perjuicio de su ulterior renovación. Serán sometidas a información pública por el plazo de un mes y habrán de contar con el informe de los Ayuntamientos"
+  }
+ },
+ {
+  "id": "e3-063",
+  "pregunta": "Según el Decreto 7/2021, Reglamento de Vías Pecuarias de la Comunidad de Madrid, el plazo para la aprobación y notificación de la clasificación es de:",
+  "opciones": [
+   "Seis meses desde el acuerdo de iniciación",
+   "Un año desde el acuerdo de iniciación",
+   "Dos años desde el acuerdo de iniciación",
+   "Tres meses desde la información pública"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 7/2021.",
+  "fuente": {
+   "documento": "OPO/Vías pecuarias/T15 - 20210127 Decreto 7-2021 Reglamento VÃ­as Pecuarias Madrid.txt",
+   "cita": "El plazo para la aprobación y notificación de la clasificación será de un año a contar desde el acuerdo de iniciación."
+  }
+ },
+ {
+  "id": "e3-064",
+  "pregunta": "Según el artículo 324 del Código Penal, quien por imprudencia grave cause daños en cuantía superior a 400 euros en bienes de valor artístico, histórico, cultural, científico o monumental, o en yacimientos arqueológicos, será castigado con:",
+  "opciones": [
+   "Prisión de seis meses a dos años",
+   "Multa de tres a 18 meses, atendiendo a la importancia de los daños",
+   "Multa de doce a veinticuatro meses",
+   "Trabajos en beneficio de la comunidad"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 324 CP.",
+  "fuente": {
+   "documento": "OPO/Código Penal/Ley 10:1995 Código Penal.txt",
+   "cita": "será castigado con la pena de multa de tres a 18 meses, atendiendo a la importancia de los mismos."
+  }
+ },
+ {
+  "id": "e3-065",
+  "pregunta": "Según el artículo 335.1 del Código Penal, quien cace o pesque especies no protegidas cuando esté expresamente prohibido por sus normas específicas será castigado con multa de ocho a doce meses e inhabilitación especial para el ejercicio del derecho de cazar o pescar por tiempo de:",
+  "opciones": [
+   "Uno a tres años",
+   "Dos a cinco años",
+   "Tres a ocho años",
+   "Seis meses a dos años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 335.1 CP: además, privación del derecho a la tenencia y porte de armas por el mismo tiempo.",
+  "fuente": {
+   "documento": "OPO/Código Penal/Ley 10:1995 Código Penal.txt",
+   "cita": "multa de ocho a doce meses, inhabilitación especial para el ejercicio del derecho de cazar o pescar por tiempo de dos a cinco años"
+  }
+ },
+ {
+  "id": "e3-066",
+  "pregunta": "Según la Orden JUS/1291/2010, sobre toma de muestras, las muestras destinadas a análisis toxicológico:",
+  "opciones": [
+   "Se conservarán en formol tamponado al 4 %",
+   "No se conservarán en formol, ni en tubos con gel activador de la coagulación",
+   "Se conservarán en alcohol de 96º",
+   "Se enviarán a temperatura ambiente"
+  ],
+  "correcta": 1,
+  "explicacion": "Orden JUS/1291/2010: nunca en formol; se evitan tubos con gel activador por posible tolueno.",
+  "fuente": {
+   "documento": "OPO/Código Penal/T02 - 20100513 ORDEN JUS-1291-2010- TOMA DE MUESTRAS.txt",
+   "cita": "Las muestras destinadas al análisis toxicológico no se conservarán en formol. No se utilizarán los tubos con gel activador de la coagulación"
+  }
+ },
+ {
+  "id": "e3-067",
+  "pregunta": "Según el Manual de identificación de causas de muerte in situ, un águila imperial que ingiere un cebo envenenado y, al sentirse mal, se posa en un tendido peligroso y muere electrocutada, presenta como causa predisponente:",
+  "opciones": [
+   "La electrocución",
+   "El envenenamiento",
+   "El tendido eléctrico mal aislado",
+   "La inexperiencia del ejemplar"
+  ],
+  "correcta": 1,
+  "explicacion": "Manual: la electrocución es la causa determinante; el envenenamiento, la predisponente.",
+  "fuente": {
+   "documento": "OPO/Código Penal/Manual ID causas de muerte in situ.txt",
+   "cita": "Aunque murió por electrocución (causa determinante), en realidad el factor predisponente fue el envenenamiento."
+  }
+ },
+ {
+  "id": "e3-068",
+  "pregunta": "Según la Ley 5/2023, del Sistema Integrado de Protección Civil y Emergencias de la Comunidad de Madrid, el órgano competente para incoar los procedimientos sancionadores en materia de protección civil es:",
+  "opciones": [
+   "El titular de la consejería competente en protección civil",
+   "El titular de la dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+   "El Consejo de Gobierno",
+   "El alcalde del municipio donde se cometa la infracción"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 49.1 Ley 5/2023.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Ley 5:2023 - Sist. Integrado PC y Emergencias CAM.txt",
+   "cita": "Sistema Nacional de Protección Civil es el titular de la dirección de la Agencia de Seguridad y Emergencias Madrid 112."
+  }
+ },
+ {
+  "id": "e3-069",
+  "pregunta": "Según la Ley 5/2023 de la Comunidad de Madrid, la Estrategia de Protección Civil de la Comunidad de Madrid será aprobada por:",
+  "opciones": [
+   "La Asamblea de Madrid",
+   "El Consejo de Gobierno",
+   "El Consejo de Administración de la Agencia Madrid 112",
+   "La Comisión de Protección Civil de la Comunidad de Madrid"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 4.3 Ley 5/2023.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Ley 5:2023 - Sist. Integrado PC y Emergencias CAM.txt",
+   "cita": "3. La Estrategia de Protección Civil será aprobada por el Consejo de Gobierno."
+  }
+ },
+ {
+  "id": "e3-070",
+  "pregunta": "Según el PLATERCAM, el CECOP empieza a funcionar como CECOPI:",
+  "opciones": [
+   "Cuando el incendio alcanza el nivel 1",
+   "Cuando se integran los mandos de las diferentes Administraciones, cuando se declaran situaciones de interés nacional o cuando se necesitan medios ajenos al Plan",
+   "Solo cuando lo ordena el Ministerio del Interior",
+   "Cuando se activa el Puesto de Mando Avanzado"
+  ],
+  "correcta": 1,
+  "explicacion": "PLATERCAM, apartado 4.2.1.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Acuerdo 30 abril 2019 - PLATERCAM.txt",
+   "cita": "El CECOP empieza a funcionar como Centro de Coordinación Operativa Integrada (CECOPI) cuando se integran los mandos de las diferentes Administraciones, tanto para la dirección y coordinación de la emergencia como para la transferencia de responsabilidades. Igualmente, se constituirá como tal cuando se declaren situaciones de interés nacional o cuando la emergencia originada necesite de medios ajenos a los asignados al Plan."
+  }
+ },
+ {
+  "id": "e3-071",
+  "pregunta": "Según el Estatuto de la Agencia de Seguridad y Emergencias Madrid 112 (Decreto 252/2023), ponen fin a la vía administrativa:",
+  "opciones": [
+   "Solo los actos del Consejo de Administración",
+   "Los actos del Consejo de Administración, de su presidencia y del titular de la dirección de la Agencia",
+   "Los actos de cualquier director general de la Agencia",
+   "Ningún acto de la Agencia, al ser recurribles en alzada ante el Consejero"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 15 del Estatuto.",
+  "fuente": {
+   "documento": "OPO/Protección civil/Decreto 252:2023 - Estatuto ASEM 112.txt",
+   "cita": "a) Los emanados del Consejo de Administración de la Agencia y de su presidencia. b) Los emanados del titular de la dirección de la Agencia."
+  }
+ },
+ {
+  "id": "e3-072",
+  "pregunta": "Según la Ley 7/2023, de protección de los derechos y el bienestar de los animales, las infracciones graves se sancionan con multa de:",
+  "opciones": [
+   "Quinientos a diez mil euros",
+   "Diez mil uno a cincuenta mil euros",
+   "Tres mil uno a nueve mil euros",
+   "Cincuenta mil uno a doscientos mil euros"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 7/2023: leves 500-10.000 (o apercibimiento); graves 10.001-50.000; muy graves 50.001-200.000 euros.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 7:2023 - Bienestar animal.txt",
+   "cita": "b) Las infracciones graves con multa de diez mil uno a cincuenta mil euros."
+  }
+ },
+ {
+  "id": "e3-073",
+  "pregunta": "Según la Ley 7/2023, de bienestar animal, el titular de un animal de compañía debe comunicar su pérdida o sustracción a la autoridad competente en el plazo máximo de:",
+  "opciones": [
+   "Veinticuatro horas",
+   "Cuarenta y ocho horas",
+   "Setenta y dos horas",
+   "Tres días hábiles"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 7/2023, obligaciones de los titulares.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 7:2023 - Bienestar animal.txt",
+   "cita": "Comunicar a la autoridad competente la pérdida o sustracción del animal en el plazo máximo de cuarenta y ocho horas desde que se produjo la misma."
+  }
+ },
+ {
+  "id": "e3-074",
+  "pregunta": "Según la Ley 4/2016, de Protección de los Animales de Compañía de la Comunidad de Madrid, una vez ingresado un animal extraviado en un centro de acogida, su propietario deberá recogerlo en el plazo de:",
+  "opciones": [
+   "48 horas desde la notificación",
+   "5 días hábiles desde la recepción de la notificación",
+   "10 días naturales desde el ingreso",
+   "15 días hábiles desde la notificación"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 4/2016, abonando previamente los gastos causados.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 4:2016 - Animales de compañia CAM.txt",
+   "cita": "deberá recogerlo en el plazo de 5 días hábiles a contar desde la recepción de la notificación"
+  }
+ },
+ {
+  "id": "e3-075",
+  "pregunta": "Según la Ley 50/1999, sobre animales potencialmente peligrosos, NO figura entre los requisitos para obtener la licencia administrativa:",
+  "opciones": [
+   "Ser mayor de edad",
+   "Certificado de aptitud psicológica",
+   "Seguro de responsabilidad civil por daños a terceros",
+   "Haber superado un curso de adiestramiento canino"
+  ],
+  "correcta": 3,
+  "explicacion": "Ley 50/1999: mayoría de edad, ausencia de condenas y sanciones, aptitud psicológica y seguro de responsabilidad civil.",
+  "fuente": {
+   "documento": "OPO/Protección animales compañía/Ley 50:1999 Animales potencialmente peligrosos.txt",
+   "cita": "a) Ser mayor de edad y no estar incapacitado para proporcionar los cuidados necesarios al animal. b) No haber sido condenado por delitos de homicidio, lesiones, torturas, contra la libertad o contra la integridad moral, la libertad sexual y la salud pública, de asociación con banda armada o de narcotráfico, así como ausencia de sanciones por infracciones en materia de tenencia de animales potencialmente peligrosos. c) Certificado de aptitud psicológica. d) Acreditación de haber formalizado un seguro de responsabilidad civil por daños a terceros"
+  }
+ },
+ {
+  "id": "e3-076",
+  "pregunta": "Según la Ley 3/2016, de Protección Integral contra la LGTBIfobia de la Comunidad de Madrid, las sanciones impuestas por infracciones muy graves prescriben:",
+  "opciones": [
+   "A los tres años",
+   "Al año",
+   "A los cinco años",
+   "A los dos años"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 3/2016: sanciones muy graves al año, graves a los seis meses, leves a los tres meses (las infracciones: tres años, dos años y seis meses).",
+  "fuente": {
+   "documento": "OPO/Igualdad/Ley 3:2016 - Prot. Integral LGTBI CAM.txt",
+   "cita": "3. Las sanciones impuestas por infracciones muy graves prescribirán al año, las graves a los seis meses y las leves a los tres meses."
+  }
+ },
+ {
+  "id": "e3-077",
+  "pregunta": "Según la Ley 4/2023, para la igualdad real y efectiva de las personas trans, las personas menores de dieciséis años y mayores de catorce podrán solicitar la rectificación registral de la mención relativa al sexo:",
+  "opciones": [
+   "No pueden solicitarla",
+   "Por sí mismas, asistidas en el procedimiento por sus representantes legales",
+   "Solo mediante autorización judicial",
+   "Solo a través de sus representantes legales"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 43 Ley 4/2023: >16 años, por sí; 14-16, asistidas por representantes; 12-14, autorización judicial.",
+  "fuente": {
+   "documento": "OPO/Igualdad/Ley 4:2023 - Igualdad real y efectiva Trans y LGTBI.txt",
+   "cita": "2. Las personas menores de dieciséis años y mayores de catorce podrán presentar la solicitud por sí mismas, asistidas en el procedimiento por sus representantes legales."
+  }
+ },
+ {
+  "id": "e3-078",
+  "pregunta": "Según la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, la aprobación de convocatorias de pruebas selectivas para el acceso al empleo público:",
+  "opciones": [
+   "Deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia",
+   "Requiere informe previo del Instituto de las Mujeres",
+   "Deberá reservar el 50 % de las plazas a mujeres",
+   "No está sujeta a ningún requisito específico de igualdad"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 55 LO 3/2007.",
+  "fuente": {
+   "documento": "OPO/Igualdad/LO 3:2007, igualdad efectiva.txt",
+   "cita": "deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+  }
+ },
+ {
+  "id": "e3-079",
+  "pregunta": "Según la Ley 3/2016 de la Comunidad de Madrid contra la LGTBIfobia, las infracciones muy graves se sancionan con multa de:",
+  "opciones": [
+   "3.001 a 20.000 euros",
+   "20.001 hasta 45.000 euros",
+   "45.001 a 100.000 euros",
+   "50.001 a 200.000 euros"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 3/2016, sanciones; con posibles accesorias de hasta tres años.",
+  "fuente": {
+   "documento": "OPO/Igualdad/Ley 3:2016 - Prot. Integral LGTBI CAM.txt",
+   "cita": "3. Las infracciones muy graves serán sancionadas con multa de 20.001 hasta 45.000 euros"
+  }
+ },
+ {
+  "id": "e3-080",
+  "pregunta": "Según la Ley 26/2007, de Responsabilidad Medioambiental, quedan exentos de constituir garantía financiera obligatoria los operadores de actividades susceptibles de ocasionar daños cuya reparación se evalúe por una cantidad inferior a:",
+  "opciones": [
+   "100.000 euros",
+   "300.000 euros",
+   "2.000.000 de euros",
+   "50.000 euros"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 28.a) Ley 26/2007; entre 300.000 y 2.000.000, exentos si acreditan adhesión a EMAS o ISO 14001.",
+  "fuente": {
+   "documento": "OPO/Responsabilidad medioambiental/BOE-A-2007-18475-consolidado.txt",
+   "cita": "a) Los operadores de aquellas actividades susceptibles de ocasionar daños cuya reparación se evalúe por una cantidad inferior a 300.000 euros."
+  }
+ },
+ {
+  "id": "e3-081",
+  "pregunta": "Según la Ley 26/2007, cuando la autoridad competente haya adoptado por sí misma medidas de prevención, evitación o reparación, dispondrá para exigir al operador responsable los costes generados de un plazo de:",
+  "opciones": [
+   "Tres años",
+   "Cinco años",
+   "Diez años",
+   "Treinta años"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 48.2 Ley 26/2007.",
+  "fuente": {
+   "documento": "OPO/Responsabilidad medioambiental/BOE-A-2007-18475-consolidado.txt",
+   "cita": "2. La autoridad competente dispondrá de un plazo de cinco años para exigir al operador responsable la obligación de satisfacer los gastos"
+  }
+ },
+ {
+  "id": "e3-082",
+  "pregunta": "Según la Ley 26/2007, en caso de infracción grave podrá imponerse, además de multa, la suspensión de la autorización por un periodo:",
+  "opciones": [
+   "Máximo de un año",
+   "Mínimo de un año y máximo de dos",
+   "Máximo de seis meses",
+   "Máximo de tres años"
+  ],
+  "correcta": 0,
+  "explicacion": "Ley 26/2007: graves, multa 10.001-50.000 € y suspensión máx. un año; muy graves, extinción o suspensión de uno a dos años.",
+  "fuente": {
+   "documento": "OPO/Responsabilidad medioambiental/BOE-A-2007-18475-consolidado.txt",
+   "cita": "1.º Multa de 10.001 hasta 50.000 euros. 2.º Suspensión de la autorización por un periodo máximo de un año."
+  }
+ },
+ {
+  "id": "e3-083",
+  "pregunta": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, en una empresa de 101 a 500 trabajadores corresponde designar:",
+  "opciones": [
+   "2 Delegados de Prevención",
+   "3 Delegados de Prevención",
+   "4 Delegados de Prevención",
+   "5 Delegados de Prevención"
+  ],
+  "correcta": 1,
+  "explicacion": "LPRL: 50-100, 2; 101-500, 3; 501-1.000, 4; 1.001-2.000, 5...",
+  "fuente": {
+   "documento": "OPO/PRL/T29 - 19951108 Ley 31-1995 de prevenciÃ³n de riesgos laborales CONSOLIDADA.txt",
+   "cita": "De 101 a 500 trabajadores: 3 Delegados de Prevención."
+  }
+ },
+ {
+  "id": "e3-084",
+  "pregunta": "Según el Real Decreto 486/1997, sobre lugares de trabajo, las dimensiones mínimas de los locales incluyen, por trabajador:",
+  "opciones": [
+   "1 metro cuadrado de superficie libre y 5 metros cúbicos no ocupados",
+   "2 metros cuadrados de superficie libre y 10 metros cúbicos no ocupados",
+   "3 metros cuadrados de superficie libre y 12 metros cúbicos no ocupados",
+   "2 metros cuadrados de superficie libre y 15 metros cúbicos no ocupados"
+  ],
+  "correcta": 1,
+  "explicacion": "RD 486/1997, anexo I.",
+  "fuente": {
+   "documento": "OPO/PRL/T29 - 19970414 RD 486-1997-BOE-A-1997-8669-consolidado Seguridad y Salud en centros de trabajo.txt",
+   "cita": "b) 2 metros cuadrados de superficie libre por trabajador. c) 10 metros cúbicos, no ocupados, por trabajador."
+  }
+ },
+ {
+  "id": "e3-085",
+  "pregunta": "Según el Real Decreto 664/1997, un agente biológico que puede causar una enfermedad grave y presenta un serio peligro para los trabajadores, con riesgo de propagación a la colectividad y existiendo generalmente profilaxis o tratamiento eficaz, pertenece al grupo:",
+  "opciones": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correcta": 2,
+  "explicacion": "RD 664/1997: grupo 3. El grupo 4 tiene muchas probabilidades de propagación y generalmente sin profilaxis ni tratamiento eficaz.",
+  "fuente": {
+   "documento": "OPO/PRL/RDv664:1997 - Agentes biológicos.txt",
+   "cita": "c) Agente biológico del grupo 3: aquél que puede causar una enfermedad grave en el hombre y presenta un serio peligro para los trabajadores, con riesgo de que se propague a la colectividad y existiendo generalmente una profilaxis o tratamiento eficaz."
+  }
+ },
+ {
+  "id": "e3-086",
+  "pregunta": "Según el Estatuto de Autonomía de la Comunidad de Madrid, la sesión constitutiva de la Asamblea tendrá lugar dentro de los:",
+  "opciones": [
+   "Quince días siguientes a las elecciones",
+   "Veinticinco días siguientes a la proclamación de los resultados electorales",
+   "Treinta días siguientes a la proclamación de los resultados",
+   "Diez días siguientes a la publicación de los resultados en el BOCM"
+  ],
+  "correcta": 1,
+  "explicacion": "Estatuto de Autonomía de Madrid (Asamblea).",
+  "fuente": {
+   "documento": "OPO/EA Madrid/Ley 3:1983 Estatuto CAM.txt",
+   "cita": "Asamblea tendrá lugar dentro de los veinticinco días siguientes a la proclamación de los resultados electorales."
+  }
+ },
+ {
+  "id": "e3-087",
+  "pregunta": "Según la Ley 1/1983, de Gobierno y Administración de la Comunidad de Madrid, cuando el Presidente haya de ser sustituido, el orden de prelación es:",
+  "opciones": [
+   "El Presidente de la Asamblea y después los Vicepresidentes",
+   "Los Vicepresidentes, según su orden, y después los Consejeros según el orden legalmente establecido",
+   "El Consejero de Presidencia en todo caso",
+   "El Consejero de mayor edad"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 17 Ley 1/1983.",
+  "fuente": {
+   "documento": "OPO/EA Madrid/Ley 1:1983 Gobierno y Admin Madrid.txt",
+   "cita": "a) Los Vicepresidentes, según su orden. b) Los diferentes Consejeros, según el orden establecido en el artículo 19.2 de esta Ley."
+  }
+ },
+ {
+  "id": "e3-088",
+  "pregunta": "Según el Decreto 38/2023, que establece el número y denominación de las Consejerías de la Comunidad de Madrid, ¿cuál de las siguientes es una de sus Consejerías?",
+  "opciones": [
+   "Transición Ecológica y Reto Demográfico",
+   "Digitalización",
+   "Medio Ambiente y Ordenación del Territorio",
+   "Interior y Emergencias"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 38/2023, art. 1: nueve Consejerías, entre ellas la 3.ª, Digitalización (Medio Ambiente se integra en Medio Ambiente, Agricultura e Interior).",
+  "fuente": {
+   "documento": "OPO/EA Madrid/T01 - 20230623 Decreto 38-2023 nÃºmero y denominaciÃ³n ConsejerÃ­as.txt",
+   "cita": "3. Digitalización. 4. Educación, Ciencia y Universidades."
+  }
+ },
+ {
+  "id": "e3-089",
+  "pregunta": "Según la Ley 22/1973, de Minas, los permisos de investigación se concederán por el plazo que se solicite, que no podrá ser superior a:",
+  "opciones": [
+   "Un año, prorrogable por otro",
+   "Tres años, prorrogable por tres años",
+   "Cinco años, sin prórroga",
+   "Treinta años, prorrogables"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 45 Ley de Minas; excepcionalmente, prórrogas sucesivas por la Dirección General de Minas. La concesión de explotación es por treinta años.",
+  "fuente": {
+   "documento": "OPO/Minas/Ley 22-1973 de Minas consolidado.txt",
+   "cita": "ser superior a tres años. Dicho plazo podrá ser prorrogado por tres años por las Delegaciones Provinciales del Ministerio de Industria"
+  }
+ },
+ {
+  "id": "e3-090",
+  "pregunta": "Según la Ley 22/1973, de Minas, quien realice un trabajo en suelo emergido cuya profundidad sobrepase determinada cota deberá, además de las autorizaciones pertinentes, cumplir las obligaciones de información geológica y minera. Esa profundidad es de:",
+  "opciones": [
+   "Diez metros",
+   "Veinticinco metros",
+   "Cincuenta metros",
+   "Cien metros"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley de Minas: más de veinticinco metros en suelo emergido, o a cualquier profundidad en suelos sumergidos.",
+  "fuente": {
+   "documento": "OPO/Minas/Ley 22-1973 de Minas consolidado.txt",
+   "cita": "cualquiera que sea su clase y objeto, cuya profundidad sobrepase los veinticinco metros por debajo de la superficie del suelo emergido"
+  }
+ },
+ {
+  "id": "e3-091",
+  "pregunta": "Según el Real Decreto 975/2009, sobre gestión de residuos de industrias extractivas y rehabilitación, el plan de restauración deberá revisarse por la entidad explotadora:",
+  "opciones": [
+   "Anualmente",
+   "Cada tres años",
+   "Cada cinco años",
+   "Solo al cierre de la explotación"
+  ],
+  "correcta": 2,
+  "explicacion": "RD 975/2009.",
+  "fuente": {
+   "documento": "OPO/Minas/RD 975:2009 residuos rehabilit.txt",
+   "cita": "el plan de restauración deberá revisarse cada cinco años por parte de la entidad explotadora"
+  }
+ },
+ {
+  "id": "e3-092",
+  "pregunta": "Según el Decreto 26/2025 de campamentos de turismo de la Comunidad de Madrid, la estancia en los campamentos de turismo será siempre temporal, sin poder superar:",
+  "opciones": [
+   "Noventa días al año",
+   "Ciento veinte días al año",
+   "Ciento ochenta días al año",
+   "Once meses al año"
+  ],
+  "correcta": 2,
+  "explicacion": "Decreto 26/2025: 180 días al año en campamentos; 48 horas consecutivas en áreas de autocaravanas.",
+  "fuente": {
+   "documento": "OPO/Usos/T35 - 20250514 Decreto 26-2025 camping y caravaning.txt",
+   "cita": "no pudiendo ser superior a ciento ochenta días al año en los campamentos de turismo"
+  }
+ },
+ {
+  "id": "e3-093",
+  "pregunta": "Según la Orden de 27 de mayo de 1992 sobre uso socio-recreativo de los montes de la Comunidad de Madrid, la estancia en las zonas señaladas para acampar no podrá superar en ningún caso:",
+  "opciones": [
+   "Un día",
+   "Tres días",
+   "Siete días",
+   "Quince días"
+  ],
+  "correcta": 1,
+  "explicacion": "Orden de 27/5/1992; excepcionalmente puede autorizarse acampada fuera de esas zonas a organismos o entidades.",
+  "fuente": {
+   "documento": "OPO/Usos/T35 - 19920527 ORDEN 27-05-1992 USO SOCIO RECREATIVO DE MONTES DE LA COMUNIDAD DE MADRID.txt",
+   "cita": "En ningún caso, la estancia en estos lugares señalados podrá superar los tres días."
+  }
+ },
+ {
+  "id": "e3-094",
+  "pregunta": "Según el Decreto 26/2025 de la Comunidad de Madrid, los bloques de servicios higiénicos se distribuirán de manera que ninguna parcela o alojamiento fijo sin cuarto de baño esté a más de:",
+  "opciones": [
+   "Cien metros",
+   "Ciento cincuenta metros",
+   "Doscientos cincuenta metros",
+   "Quinientos metros"
+  ],
+  "correcta": 2,
+  "explicacion": "Decreto 26/2025.",
+  "fuente": {
+   "documento": "OPO/Usos/T35 - 20250514 Decreto 26-2025 camping y caravaning.txt",
+   "cita": "a más de doscientos cincuenta metros de uno de ellos."
+  }
+ },
+ {
+  "id": "e3-095",
+  "pregunta": "Según el tema de ecosistemas madrileños, en la Sierra de Guadarrama los pinares de montaña, en especial de pino silvestre, aparecen en una banda entre:",
+  "opciones": [
+   "1.200 y 1.700 metros",
+   "1.700 y 2.000 metros",
+   "900 y 1.200 metros",
+   "2.000 y 2.400 metros"
+  ],
+  "correcta": 1,
+  "explicacion": "Tema 20 (ecosistemas); el melojar ocupa aproximadamente de 1.200 a 1.700 m.",
+  "fuente": {
+   "documento": "OPO/Medio/T20 - TEMA ECOSISTEMAS.txt",
+   "cita": "los pinares de montaña aparecen en una banda entre los 1.700 y los 2.000 metros"
+  }
+ },
+ {
+  "id": "e3-096",
+  "pregunta": "Según el tema de ecosistemas madrileños, cuando el suelo del encinar se hace calizo aparece:",
+  "opciones": [
+   "El sabinar",
+   "El coscojar",
+   "El retamar",
+   "El jaral"
+  ],
+  "correcta": 1,
+  "explicacion": "Tema 20.",
+  "fuente": {
+   "documento": "OPO/Medio/T20 - TEMA ECOSISTEMAS.txt",
+   "cita": "Cuando el suelo se hace calizo aparece el coscojar."
+  }
+ },
+ {
+  "id": "e3-097",
+  "pregunta": "Según la Ley 8/2023, de Patrimonio Cultural de la Comunidad de Madrid, las infracciones graves se sancionan con multa de:",
+  "opciones": [
+   "Hasta 60.000 euros",
+   "Entre 60.001 y 300.000 euros",
+   "Entre 300.001 y 1.000.000 euros",
+   "Entre 150.001 y 600.000 euros"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 8/2023: leves hasta 60.000; graves 60.001-300.000; muy graves 300.001-1.000.000 euros.",
+  "fuente": {
+   "documento": "OPO/Patrimonio histórico/T37 - 20230330 Ley 8-2023 Patrimonio BOCM-20230412-3.txt",
+   "cita": "b) Para las infracciones graves, una multa de entre 60.001 y 300.000 euros."
+  }
+ },
+ {
+  "id": "e3-098",
+  "pregunta": "Según la Ley 8/2023, de Patrimonio Cultural de la Comunidad de Madrid, las infracciones muy graves prescriben al cabo de:",
+  "opciones": [
+   "Tres años",
+   "Cuatro años",
+   "Cinco años",
+   "Seis años"
+  ],
+  "correcta": 3,
+  "explicacion": "Ley 8/2023: con carácter general cuatro años; las muy graves, seis.",
+  "fuente": {
+   "documento": "OPO/Patrimonio histórico/T37 - 20230330 Ley 8-2023 Patrimonio BOCM-20230412-3.txt",
+   "cita": "cuatro años de haberse cometido, salvo las de carácter muy grave, que prescriben al cabo de seis años."
+  }
+ },
+ {
+  "id": "e3-099",
+  "pregunta": "Según el Plan de actuación contra el uso ilegal de veneno de la Comunidad de Madrid (Decreto 144/2018), NO figura entre los indicios que pueden apuntar al uso ilegal de cebos envenenados:",
+  "opciones": [
+   "La aparición simultánea de ejemplares de fauna muertos",
+   "La aparición de perros muertos",
+   "En rapaces, la localización de cadáveres en postura agónica de muerte",
+   "La aparición de un único cadáver atropellado junto a una carretera"
+  ],
+  "correcta": 3,
+  "explicacion": "Decreto 144/2018: aparición simultánea, en periodos de cría, en cotos o explotaciones con antecedentes, perros muertos, rapaces en postura agónica.",
+  "fuente": {
+   "documento": "OPO/Venenos/Decreto 144:2018.txt",
+   "cita": "1. Aparición simultánea de ejemplares de fauna muertos. 2. Aparición de ejemplares de fauna muertos en determinados terrenos durante los periodos de cría. 3. Aparición de ejemplares de fauna muertos en terrenos acotados o explotaciones ganaderas donde existan antecedentes. 4. Aparición de perros muertos. 5. En rapaces, localización de cadáveres en postura agónica de muerte."
+  }
+ },
+ {
+  "id": "e3-100",
+  "pregunta": "Según el Decreto 144/2018, cuando el conocimiento de un posible caso de envenenamiento provenga del Cuerpo de Agentes Forestales, los hechos serán puestos también en conocimiento de:",
+  "opciones": [
+   "La Policía Local",
+   "El SEPRONA (Guardia Civil)",
+   "El Juzgado de guardia en todo caso",
+   "La Fiscalía de Medio Ambiente directamente"
+  ],
+  "correcta": 1,
+  "explicacion": "Decreto 144/2018, activación del procedimiento.",
+  "fuente": {
+   "documento": "OPO/Venenos/Decreto 144:2018.txt",
+   "cita": "Los hechos serán puestos en conocimiento del SEPRONA (Guardia Civil) para la coordinación de posibles acciones."
+  }
+ }
+]

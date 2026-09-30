@@ -10,5 +10,23 @@
     "titulo": "Examen 2 — Todo el temario (100 preguntas)",
     "categoria": "examen",
     "archivo": "data/examen-02.json"
+  },
+  {
+    "id": "examen-03",
+    "titulo": "Examen 3 — Todo el temario, nivel alto (100 preguntas)",
+    "categoria": "examen",
+    "archivo": "data/examen-03.json"
+  },
+  {
+    "id": "examen-04",
+    "titulo": "Examen 4 — Todo el temario, nivel alto (100 preguntas)",
+    "categoria": "examen",
+    "archivo": "data/examen-04.json"
+  },
+  {
+    "id": "examen-05",
+    "titulo": "Examen 5 — Todo el temario, nivel alto (100 preguntas)",
+    "categoria": "examen",
+    "archivo": "data/examen-05.json"
   }
 ]
